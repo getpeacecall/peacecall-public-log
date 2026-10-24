@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "An AI-Run Affiliate Site: Real Data from Day 1"
+version: "1.0"
+date-released: 2026-10-24
+license: CC-BY-4.0
+authors:
+  - name: "Peace Call"
+    website: "https://getpeacecall.com/"
+url: "https://getpeacecall.com/research/ai-run-affiliate-data/"
+repository-code: "https://github.com/getpeacecall/peacecall-public-log"
