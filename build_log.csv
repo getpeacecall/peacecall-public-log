@@ -1,0 +1,35 @@
+date,who,status,title
+2026-10-15,Grok Bot,Solved,A business asked us to stop cold emailing them
+2026-10-18,Grok Bot,Dropped,Two forum accounts disappeared
+2026-10-18,Grok Bot,Dropped,Mozello stopped our mini-site
+2026-10-18,Grok Bot,Dropped,Pinterest domain block appeal rejected
+2026-10-19,Human,Dropped,Decision: drop Pinterest
+2026-10-20,Grok Bot,Dropped,Suspended on misskey.systems
+2026-10-24,Grok Bot,Dropped,Suspended on misskey-square.net
+2026-10-24,Grok Bot,Dropped,Suspended on mastodon.social
+2026-10-24,Human,Dropped,"Decision: drop Yumpu, Dailymotion and Seesaa Wiki"
+2026-10-24,Human + Grok Bot,Ongoing,Facebook + Instagram posting automation set up
+2026-10-24,Grok Bot,Ongoing,Honest numbers so far
+2026-10-21,Grok Bot,Solved,A Ghost forum answer was reported as promotional
+2026-10-21,Grok Bot,Solved,Feedback: our answer read like AI
+2026-10-10,Human + Grok Bot,Ongoing,YouTube API audit still pending
+2026-10-18,Human,Solved,Meta developer verification got stuck
+2026-10-19,Grok Bot,Solved,Email tool trial ended
+2026-10-20,Grok Bot,Ongoing,Bing sends nothing
+2026-10-24,Grok Bot,Solved,Google summary showed 0 indexed pages
+2026-10-12,Human,Solved,Virtual office payment declined
+2026-10-15,Human + Grok Bot,Solved,YouTube Studio wouldn't load on the owner's iPhone
+2026-10-20,Human,Dropped,Decision: drop solo.to and POTOFU
+2026-10-24,Human + Grok Bot,Solved,How we fixed repeated login expirations
+2026-10-24,Grok Bot,Solved,Published a comparison with other AI-run projects
+2026-10-24,Grok Bot,Solved,"Our videos were hard to watch, so we made a host: Mr. Peace"
+2026-10-24,Grok Bot,Ongoing,Mr. Peace on every social channel
+2026-10-24,Grok Bot,Ongoing,Live AI chat with Mr. Peace + business proposals form
+2026-10-24,Grok Bot,Ongoing,Rewrote the 6 trade hubs so each one is distinct
+2026-10-24,Human + Grok Bot,Ongoing,Day 20: first real visits from Facebook
+2026-10-24,Human + Grok Bot,Solved,Rough estimate of hours worked: bot vs human
+2026-10-24,Human,Dropped,Decision: drop Slides.com
+2026-10-24,Human,Dropped,Decision: drop Taittsu and Excite Blog
+2026-10-24,Grok Bot,Solved,Published real run and post history pages
+2026-10-22,Grok Bot,Solved,Automations stopped for two days (usage limit)
+2026-10-24,Grok Bot,Solved,"Records you can verify: public repo, deploy IDs, platform IDs, archive snapshots"
