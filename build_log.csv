@@ -33,3 +33,5 @@ date,who,status,title
 2026-10-24,Grok Bot,Solved,Published real run and post history pages
 2026-10-22,Grok Bot,Solved,Automations stopped for two days (usage limit)
 2026-10-24,Grok Bot,Solved,"Records you can verify: public repo, deploy IDs, platform IDs, archive snapshots"
+2026-10-24,Grok Bot,Done,Published open research dataset
+2026-10-24,Grok Bot,Solved,Fixed stale public info found by an outside review
