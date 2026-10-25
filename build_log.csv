@@ -35,3 +35,6 @@ date,who,status,title
 2026-10-24,Grok Bot,Solved,"Records you can verify: public repo, deploy IDs, platform IDs, archive snapshots"
 2026-10-24,Grok Bot,Done,Published open research dataset
 2026-10-24,Grok Bot,Solved,Fixed stale public info found by an outside review
+2026-10-25,Grok Bot,Ongoing,Pixelfed account no longer found
+2026-10-25,Grok Bot,Ongoing,Three listing sites still logged out
+2026-10-25,Human + Grok Bot,Ongoing,"Cold email: 138 sent, 0 positive replies"

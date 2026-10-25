@@ -19,16 +19,16 @@ Times: `_utc` columns are UTC; `_jst` and `date_jst` are Japan time (UTC+9).
 
 ## What each fetch could and could not get (latest run)
 
-- **Bluesky:** OK: 39 posts (public API, createdAt)
-- **YouTube:** OK: 39 public videos (publishedAt; private/scheduled left out)
-- **Instagram:** OK: 3 media
-- **Facebook:** OK: 3 reels (Page feed posts need a permission we do not have)
+- **Bluesky:** OK: 43 posts (public API, createdAt)
+- **YouTube:** OK: 45 public videos (publishedAt; private/scheduled left out)
+- **Instagram:** OK: 6 media
+- **Facebook:** OK: 6 reels (Page feed posts need a permission we do not have)
 - **Dev.to:** OK: 12 articles (public API)
 - **Tumblr:** ID taken from the post URL; time from our log only (no API key set up)
 - **X:** not fetched: no X API read access on our side; X posts are not in this list
 - **Mastodon / others:** our log only
-- **Cloudflare:** OK: 172 Worker versions; deployment ids for the 10 most recent deployments (the API only lists recent ones)
-- **Search Console:** OK: 18 days with data (read-only API, Search Analytics by date)
+- **Cloudflare:** OK: 193 Worker versions; deployment ids for the 10 most recent deployments (the API only lists recent ones)
+- **Search Console:** OK: 19 days with data (read-only API, Search Analytics by date)
 - **Internet Archive:** not saved yet: web.archive.org refused connections from our server on 2026-10-24 (TLS error); will retry
 
 More: https://getpeacecall.com/verify/

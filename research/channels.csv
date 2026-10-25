@@ -32,16 +32,16 @@ arena,Are.na,EN,active,yes,,,
 pearltrees,Pearltrees,EN,active,yes,,,
 calameo,Calameo,EN,active,yes,,,
 yumpu,Yumpu,EN,dropped,no,,2026-10-24,Free-plan limits; dropped
-fliphtml5,FlipHTML5,EN,active,yes,,,
-flipsnack,Flipsnack,EN,active,yes,,,
-slideserve,SlideServe,EN,active,yes,,,
+fliphtml5,FlipHTML5,EN,paused,no,,2026-10-25,Paused: login kept expiring and no visits
+flipsnack,Flipsnack,EN,paused,no,,2026-10-25,Paused: login kept expiring and no visits
+slideserve,SlideServe,EN,paused,no,,2026-10-25,Paused: login kept expiring and no visits
 slidescom,Slides.com,EN,dropped,no,,2026-10-24,Free plan limit of 5 decks reached
 hackmd,HackMD,EN,active,yes,,,
-docswell,Docswell,JP,active,yes,,,
+docswell,Docswell,JP,paused,no,,,
 muragon,muragon,JP,active,yes,,,
 zenn,Zenn,JP,active,yes,,,
 seesaa,seesaa,JP,active,yes,,,
-shinobi,shinobi,JP,active,yes,,,
+shinobi,shinobi,JP,paused,no,,,
 blogmura,blogmura,JP,active,yes,,,
 ameba,Ameba,JP,active,yes,,,
 excite,excite,JP,dropped,no,,2026-10-24,Free-plan affiliate rules and repeated-link rules do not fit this site
@@ -57,30 +57,30 @@ nostr,Nostr,JP,active,yes,API,,
 carrd,Carrd,EN,active,yes,,,
 site123,SITE123,EN,active,yes,,,
 webnode,Webnode,EN,active,yes,,,
-jimdo,Jimdo,EN,active,yes,,,
+jimdo,Jimdo,EN,paused,no,,2026-10-25,Paused: login kept expiring and no visits
 wix,Wix,EN,active,yes,,,
-craft,Craft,EN,active,yes,,,
+craft,Craft,EN,paused,no,,2026-10-25,Paused: login kept expiring and no visits
 genially,Genially,EN,active,yes,,,
 coda,Coda,EN,active,yes,,,
 mmm,mmm.page,EN,active,yes,,,
-strikingly,Strikingly,EN,active,yes,,,
-soloto,solo.to,EN,active,no,,,
-lnkbio,Lnk.bio,EN,active,yes,,,
+strikingly,Strikingly,EN,paused,no,,2026-10-25,Paused: login kept expiring and no visits
+soloto,solo.to,EN,active,yes,,,
+lnkbio,Lnk.bio,EN,paused,no,,2026-10-25,Paused: login kept expiring and no visits
 beacons,Beacons,EN,active,yes,,,
-taplink,Taplink,EN,active,yes,,,
-heylink,HeyLink.me,EN,active,yes,,,
-campsite,Campsite.bio,EN,active,yes,,,
+taplink,Taplink,EN,paused,no,,2026-10-25,Paused: login kept expiring and no visits
+heylink,HeyLink.me,EN,paused,no,,2026-10-25,Paused: login kept expiring and no visits
+campsite,Campsite.bio,EN,paused,no,,2026-10-25,Paused: login kept expiring and no visits
 allmylinks,AllMyLinks,EN,active,yes,,,
-hoobe,hoo.be,EN,active,yes,,,
+hoobe,hoo.be,EN,paused,no,,,
 litlink,lit.link,JP,active,yes,,,
-potofu,POTOFU,JP,active,no,,,
+potofu,POTOFU,JP,active,yes,,,
 bmac,Buy Me a Coffee,EN,active,yes,,,
 codepen,CodePen,EN,active,yes,,,
-activepieces,Activepieces Community,EN,active,yes,,,
+activepieces,Activepieces Community,EN,paused,no,,2026-10-25,Paused: login kept expiring and no visits
 ghost,Ghost Forum,EN,active,yes,,,
-softr,Softr Community,EN,active,yes,,,
+softr,Softr Community,EN,paused,no,,2026-10-25,Paused: login kept expiring and no visits
 baserow,Baserow Community,EN,active,yes,,,
-nocodb,NocoDB Community,EN,active,yes,,,
+nocodb,NocoDB Community,EN,paused,no,,2026-10-25,Paused: login kept expiring and no visits
 mautic,Mautic Forum,EN,active,yes,,,
 weweb,WeWeb Community,EN,active,yes,,,
 freepbx,FreePBX Community,EN,active,yes,,,
@@ -90,7 +90,7 @@ matomo,Matomo Forums,EN,active,yes,,,
 suitecrm,SuiteCRM Community,EN,active,yes,,,
 wappler,Wappler Community,EN,active,yes,,,
 bubble,Bubble Forum,EN,active,yes,,,
-rasa,Rasa Community Forum,EN,active,yes,,,
+rasa,Rasa Community Forum,EN,paused,no,,2026-10-25,Paused: login kept expiring and no visits
 openai,OpenAI Developer Community,EN,active,yes,,,
 hfforum,Hugging Face Forums,EN,active,yes,,,
 noloco,Noloco Community,EN,active,yes,,,
@@ -103,17 +103,17 @@ reddit,Reddit,EN,active,yes,,,
 quora,Quora,EN/JP,active,yes,,,
 gumroad,Gumroad,EN,active,yes,,,
 buttondown,Buttondown,EN,active,yes,,,
-sourceforge,SourceForge,EN,active,no,,,
+sourceforge,SourceForge,EN,paused,no,,2026-10-25,Paused: login kept expiring and no visits
 gravatar,Gravatar,EN,active,yes,,,
 hackster,Hackster.io,EN,active,no,,,
 figma,Figma Community,EN,active,yes,,,
 huggingface,Hugging Face,EN,active,yes,,,
-observable,Observable,EN,active,yes,,,
+observable,Observable,EN,paused,no,,2026-10-25,Paused: login kept expiring and no visits
 instagram,Instagram,EN,active,yes,API,,
 facebook,Facebook Page,EN,active,yes,API,,
 mastodon,Mastodon,EN,dropped,no,,2026-10-24,mastodon.social suspended the account after a complaint about an unsolicited reply
 pinterest,Pinterest,EN,dropped,discontinued,,2026-10-19,Pinterest blocked our domain; appeal rejected
-speakerdeck,Speaker Deck,EN,error,blocked,,2026-10-18,Decks reverted to private; waiting on support
+speakerdeck,Speaker Deck,EN,paused,no,,2026-10-25,Paused: login kept expiring and no visits
 mozello,Mozello,EN,error,blocked,,2026-10-18,Site shown as suspended; waiting on support
 seesaawiki,Seesaa Wiki,JP,dropped,no,,2026-10-19,Editor kept failing (HTTP 503); dropped
 hashnode,Hashnode,EN,stopped,blocked,,2026-10-18,Paid plan required to continue (we do not pay)
