@@ -212,14 +212,32 @@ version_number,version_id,deployment_id,created_utc,created_jst,build_log_same_d
 211,a0a734ec-81c1-4c45-b7bb-91f6fa30fdf3,,2026-10-26T13:09:04Z,2026-10-26 22:09,"X: most original posts got 0 impressions | Posts were too salesy, so we are switching to entertainment first | Hugging Face paused after its login expired again",753bd06
 212,1bcbd435-c143-497c-af59-56d9002165f1,,2026-10-26T13:24:31Z,2026-10-26 22:24,"X: most original posts got 0 impressions | Posts were too salesy, so we are switching to entertainment first | Hugging Face paused after its login expired again",753bd06
 213,989447d7-ef78-4549-b60c-ded404d09e9c,,2026-10-26T13:52:30Z,2026-10-26 22:52,"X: most original posts got 0 impressions | Posts were too salesy, so we are switching to entertainment first | Hugging Face paused after its login expired again",753bd06
-214,5f773169-632a-46c9-8abf-f8bd48ff9269,,2026-10-26T22:58:35Z,2026-10-27 07:58,Bluesky stalled at 12 followers | Flickr account disappeared | X rejected our longer video posts,
-215,1135d1c3-d002-4032-8ede-4e20770b39f8,6d73cd89-196a-4dd4-a342-efc37cb804d3,2026-10-27T00:52:45Z,2026-10-27 09:52,Bluesky stalled at 12 followers | Flickr account disappeared | X rejected our longer video posts,
-216,77fc06f0-20f5-4d12-b7b0-940cb62e38d3,e80bb459-c024-4f7c-b25d-87362eae4766,2026-10-27T00:55:52Z,2026-10-27 09:55,Bluesky stalled at 12 followers | Flickr account disappeared | X rejected our longer video posts,
-217,4b33b090-bd5b-4e01-bcf9-e9b46d32531a,31fba7ed-df07-423b-a2a9-9d3be3a98462,2026-10-27T01:05:48Z,2026-10-27 10:05,Bluesky stalled at 12 followers | Flickr account disappeared | X rejected our longer video posts,
-218,30fdf2e6-57a0-4983-81e7-28dc9edee54a,54b0493b-cae0-43ad-a86b-e42b317c1ec4,2026-10-27T01:50:24Z,2026-10-27 10:50,Bluesky stalled at 12 followers | Flickr account disappeared | X rejected our longer video posts,
-219,73479414-4867-4fd2-970f-2effddc8180e,5dfa7ae5-65cb-4b36-9789-a3c8b76166ae,2026-10-27T04:00:28Z,2026-10-27 13:00,Bluesky stalled at 12 followers | Flickr account disappeared | X rejected our longer video posts,
-220,8bbd81b4-9fb0-4031-bf37-846ad2c1cea9,7a2e6ab3-d5fb-453f-8351-90607c0e6ae2,2026-10-27T07:01:14Z,2026-10-27 16:01,Bluesky stalled at 12 followers | Flickr account disappeared | X rejected our longer video posts,
-221,07c1fdb1-a07b-4bf1-8513-eb9f4030ea11,cb609460-ef06-4ee0-8147-5c8c4c402a14,2026-10-27T10:04:08Z,2026-10-27 19:04,Bluesky stalled at 12 followers | Flickr account disappeared | X rejected our longer video posts,
-222,9efb14f0-dd00-41ec-a70c-a2d83a8251fa,816f61f2-8378-4a04-b5d4-01183ccd12a2,2026-10-27T10:04:24Z,2026-10-27 19:04,Bluesky stalled at 12 followers | Flickr account disappeared | X rejected our longer video posts,
-223,d5f9d628-ce08-4a3d-b3c1-dc168d08dbad,8d20e460-6801-4282-8302-a62c664850a5,2026-10-27T12:02:49Z,2026-10-27 21:02,Bluesky stalled at 12 followers | Flickr account disappeared | X rejected our longer video posts,
-224,9262437f-f4f1-4922-839e-eba54184c216,b6c74021-d55a-4254-b52b-848adb157913,2026-10-27T13:00:25Z,2026-10-27 22:00,Bluesky stalled at 12 followers | Flickr account disappeared | X rejected our longer video posts,
+214,5f773169-632a-46c9-8abf-f8bd48ff9269,,2026-10-26T22:58:35Z,2026-10-27 07:58,Bluesky stalled at 12 followers | Flickr account disappeared | X rejected our longer video posts,8d64dc7
+215,1135d1c3-d002-4032-8ede-4e20770b39f8,,2026-10-27T00:52:45Z,2026-10-27 09:52,Bluesky stalled at 12 followers | Flickr account disappeared | X rejected our longer video posts,8d64dc7
+216,77fc06f0-20f5-4d12-b7b0-940cb62e38d3,,2026-10-27T00:55:52Z,2026-10-27 09:55,Bluesky stalled at 12 followers | Flickr account disappeared | X rejected our longer video posts,8d64dc7
+217,4b33b090-bd5b-4e01-bcf9-e9b46d32531a,,2026-10-27T01:05:48Z,2026-10-27 10:05,Bluesky stalled at 12 followers | Flickr account disappeared | X rejected our longer video posts,8d64dc7
+218,30fdf2e6-57a0-4983-81e7-28dc9edee54a,,2026-10-27T01:50:24Z,2026-10-27 10:50,Bluesky stalled at 12 followers | Flickr account disappeared | X rejected our longer video posts,8d64dc7
+219,73479414-4867-4fd2-970f-2effddc8180e,,2026-10-27T04:00:28Z,2026-10-27 13:00,Bluesky stalled at 12 followers | Flickr account disappeared | X rejected our longer video posts,8d64dc7
+220,8bbd81b4-9fb0-4031-bf37-846ad2c1cea9,,2026-10-27T07:01:14Z,2026-10-27 16:01,Bluesky stalled at 12 followers | Flickr account disappeared | X rejected our longer video posts,8d64dc7
+221,07c1fdb1-a07b-4bf1-8513-eb9f4030ea11,,2026-10-27T10:04:08Z,2026-10-27 19:04,Bluesky stalled at 12 followers | Flickr account disappeared | X rejected our longer video posts,8d64dc7
+222,9efb14f0-dd00-41ec-a70c-a2d83a8251fa,,2026-10-27T10:04:24Z,2026-10-27 19:04,Bluesky stalled at 12 followers | Flickr account disappeared | X rejected our longer video posts,8d64dc7
+223,d5f9d628-ce08-4a3d-b3c1-dc168d08dbad,,2026-10-27T12:02:49Z,2026-10-27 21:02,Bluesky stalled at 12 followers | Flickr account disappeared | X rejected our longer video posts,8d64dc7
+224,9262437f-f4f1-4922-839e-eba54184c216,,2026-10-27T13:00:25Z,2026-10-27 22:00,Bluesky stalled at 12 followers | Flickr account disappeared | X rejected our longer video posts,8d64dc7
+225,3069cec6-bfe1-4408-8663-13e192e36146,,2026-10-27T13:54:43Z,2026-10-27 22:54,Bluesky stalled at 12 followers | Flickr account disappeared | X rejected our longer video posts,8d64dc7
+226,c557e427-cb79-4955-ac0f-3dc36e368f35,,2026-10-27T23:06:21Z,2026-10-28 08:06,5 of 6 new videos got 0-2 views on day one,
+227,9df1b01d-32a6-441d-b46d-269b14fc10dd,,2026-10-28T00:47:27Z,2026-10-28 09:47,5 of 6 new videos got 0-2 views on day one,
+228,9ae2089d-2220-435a-9dd9-ba674d32f718,,2026-10-28T00:58:29Z,2026-10-28 09:58,5 of 6 new videos got 0-2 views on day one,
+229,a73e9dc2-678e-408d-ba59-7c00e5289a3a,,2026-10-28T01:30:36Z,2026-10-28 10:30,5 of 6 new videos got 0-2 views on day one,
+230,ae8c01f7-fdc5-4339-a9fb-0b70ddae328a,,2026-10-28T04:03:43Z,2026-10-28 13:03,5 of 6 new videos got 0-2 views on day one,
+231,9e679bcb-ecd5-4cf9-be35-e6c2c6a6e443,,2026-10-28T06:59:19Z,2026-10-28 15:59,5 of 6 new videos got 0-2 views on day one,
+232,93f226ac-50ff-4f2d-a677-3719cfef3d57,,2026-10-28T08:39:04Z,2026-10-28 17:39,5 of 6 new videos got 0-2 views on day one,
+233,c55e0cd1-f6fa-48f6-9801-3a551a0fd70e,d279d639-84cf-43c5-a3f9-c3aa2d54df02,2026-10-28T08:45:58Z,2026-10-28 17:45,5 of 6 new videos got 0-2 views on day one,
+234,dd80444a-6365-466e-9094-6a3f071a4521,6ee80fdc-54a7-46a7-ab69-9cc2db5783c0,2026-10-28T08:50:16Z,2026-10-28 17:50,5 of 6 new videos got 0-2 views on day one,
+235,910f8a71-48b3-4318-8c70-f8390dd9b6e6,a80db894-6857-4145-9327-eb29589433b6,2026-10-28T09:00:13Z,2026-10-28 18:00,5 of 6 new videos got 0-2 views on day one,
+236,5cb82f36-119b-4c44-90c6-981ae02ed6e9,8881f784-44a1-4326-b77f-0943096b90f1,2026-10-28T10:05:32Z,2026-10-28 19:05,5 of 6 new videos got 0-2 views on day one,
+237,8092acd0-6096-4998-a31d-2ac41643acac,07207888-7650-4f7d-9a40-7d922d517a8e,2026-10-28T10:26:30Z,2026-10-28 19:26,5 of 6 new videos got 0-2 views on day one,
+238,b346c9a7-77a4-483a-9eaa-53f9b8c9adb5,9b63f77f-8831-4972-956f-7846a910e811,2026-10-28T10:41:33Z,2026-10-28 19:41,5 of 6 new videos got 0-2 views on day one,
+239,60cfe286-2020-4a03-a7bf-b22becea1f2f,3706363d-d935-4b57-b302-65f4a5e152b0,2026-10-28T10:49:30Z,2026-10-28 19:49,5 of 6 new videos got 0-2 views on day one,
+240,6a4fe0a2-382f-4415-aa3f-fbfea3c83829,e211525c-eb27-4963-975d-ba77ab1198d8,2026-10-28T11:05:51Z,2026-10-28 20:05,5 of 6 new videos got 0-2 views on day one,
+241,2e2a2a56-091c-4417-bf98-5f040ec6f14b,f9f3245c-3791-415a-aafa-10f25b129cb8,2026-10-28T12:04:08Z,2026-10-28 21:04,5 of 6 new videos got 0-2 views on day one,
+242,7e7bb3fb-f8c1-4a10-a039-2f0fe688a7a2,3fc9f77f-a9bc-4c89-9bea-c4c02a7048ad,2026-10-28T12:59:33Z,2026-10-28 21:59,5 of 6 new videos got 0-2 views on day one,
