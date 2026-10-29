@@ -224,20 +224,35 @@ version_number,version_id,deployment_id,created_utc,created_jst,build_log_same_d
 223,d5f9d628-ce08-4a3d-b3c1-dc168d08dbad,,2026-10-27T12:02:49Z,2026-10-27 21:02,Bluesky stalled at 12 followers | Flickr account disappeared | X rejected our longer video posts,8d64dc7
 224,9262437f-f4f1-4922-839e-eba54184c216,,2026-10-27T13:00:25Z,2026-10-27 22:00,Bluesky stalled at 12 followers | Flickr account disappeared | X rejected our longer video posts,8d64dc7
 225,3069cec6-bfe1-4408-8663-13e192e36146,,2026-10-27T13:54:43Z,2026-10-27 22:54,Bluesky stalled at 12 followers | Flickr account disappeared | X rejected our longer video posts,8d64dc7
-226,c557e427-cb79-4955-ac0f-3dc36e368f35,,2026-10-27T23:06:21Z,2026-10-28 08:06,5 of 6 new videos got 0-2 views on day one,
-227,9df1b01d-32a6-441d-b46d-269b14fc10dd,,2026-10-28T00:47:27Z,2026-10-28 09:47,5 of 6 new videos got 0-2 views on day one,
-228,9ae2089d-2220-435a-9dd9-ba674d32f718,,2026-10-28T00:58:29Z,2026-10-28 09:58,5 of 6 new videos got 0-2 views on day one,
-229,a73e9dc2-678e-408d-ba59-7c00e5289a3a,,2026-10-28T01:30:36Z,2026-10-28 10:30,5 of 6 new videos got 0-2 views on day one,
-230,ae8c01f7-fdc5-4339-a9fb-0b70ddae328a,,2026-10-28T04:03:43Z,2026-10-28 13:03,5 of 6 new videos got 0-2 views on day one,
-231,9e679bcb-ecd5-4cf9-be35-e6c2c6a6e443,,2026-10-28T06:59:19Z,2026-10-28 15:59,5 of 6 new videos got 0-2 views on day one,
-232,93f226ac-50ff-4f2d-a677-3719cfef3d57,,2026-10-28T08:39:04Z,2026-10-28 17:39,5 of 6 new videos got 0-2 views on day one,
-233,c55e0cd1-f6fa-48f6-9801-3a551a0fd70e,d279d639-84cf-43c5-a3f9-c3aa2d54df02,2026-10-28T08:45:58Z,2026-10-28 17:45,5 of 6 new videos got 0-2 views on day one,
-234,dd80444a-6365-466e-9094-6a3f071a4521,6ee80fdc-54a7-46a7-ab69-9cc2db5783c0,2026-10-28T08:50:16Z,2026-10-28 17:50,5 of 6 new videos got 0-2 views on day one,
-235,910f8a71-48b3-4318-8c70-f8390dd9b6e6,a80db894-6857-4145-9327-eb29589433b6,2026-10-28T09:00:13Z,2026-10-28 18:00,5 of 6 new videos got 0-2 views on day one,
-236,5cb82f36-119b-4c44-90c6-981ae02ed6e9,8881f784-44a1-4326-b77f-0943096b90f1,2026-10-28T10:05:32Z,2026-10-28 19:05,5 of 6 new videos got 0-2 views on day one,
-237,8092acd0-6096-4998-a31d-2ac41643acac,07207888-7650-4f7d-9a40-7d922d517a8e,2026-10-28T10:26:30Z,2026-10-28 19:26,5 of 6 new videos got 0-2 views on day one,
-238,b346c9a7-77a4-483a-9eaa-53f9b8c9adb5,9b63f77f-8831-4972-956f-7846a910e811,2026-10-28T10:41:33Z,2026-10-28 19:41,5 of 6 new videos got 0-2 views on day one,
-239,60cfe286-2020-4a03-a7bf-b22becea1f2f,3706363d-d935-4b57-b302-65f4a5e152b0,2026-10-28T10:49:30Z,2026-10-28 19:49,5 of 6 new videos got 0-2 views on day one,
-240,6a4fe0a2-382f-4415-aa3f-fbfea3c83829,e211525c-eb27-4963-975d-ba77ab1198d8,2026-10-28T11:05:51Z,2026-10-28 20:05,5 of 6 new videos got 0-2 views on day one,
-241,2e2a2a56-091c-4417-bf98-5f040ec6f14b,f9f3245c-3791-415a-aafa-10f25b129cb8,2026-10-28T12:04:08Z,2026-10-28 21:04,5 of 6 new videos got 0-2 views on day one,
-242,7e7bb3fb-f8c1-4a10-a039-2f0fe688a7a2,3fc9f77f-a9bc-4c89-9bea-c4c02a7048ad,2026-10-28T12:59:33Z,2026-10-28 21:59,5 of 6 new videos got 0-2 views on day one,
+226,c557e427-cb79-4955-ac0f-3dc36e368f35,,2026-10-27T23:06:21Z,2026-10-28 08:06,5 of 6 new videos got 0-2 views on day one,720639b
+227,9df1b01d-32a6-441d-b46d-269b14fc10dd,,2026-10-28T00:47:27Z,2026-10-28 09:47,5 of 6 new videos got 0-2 views on day one,720639b
+228,9ae2089d-2220-435a-9dd9-ba674d32f718,,2026-10-28T00:58:29Z,2026-10-28 09:58,5 of 6 new videos got 0-2 views on day one,720639b
+229,a73e9dc2-678e-408d-ba59-7c00e5289a3a,,2026-10-28T01:30:36Z,2026-10-28 10:30,5 of 6 new videos got 0-2 views on day one,720639b
+230,ae8c01f7-fdc5-4339-a9fb-0b70ddae328a,,2026-10-28T04:03:43Z,2026-10-28 13:03,5 of 6 new videos got 0-2 views on day one,720639b
+231,9e679bcb-ecd5-4cf9-be35-e6c2c6a6e443,,2026-10-28T06:59:19Z,2026-10-28 15:59,5 of 6 new videos got 0-2 views on day one,720639b
+232,93f226ac-50ff-4f2d-a677-3719cfef3d57,,2026-10-28T08:39:04Z,2026-10-28 17:39,5 of 6 new videos got 0-2 views on day one,720639b
+233,c55e0cd1-f6fa-48f6-9801-3a551a0fd70e,,2026-10-28T08:45:58Z,2026-10-28 17:45,5 of 6 new videos got 0-2 views on day one,720639b
+234,dd80444a-6365-466e-9094-6a3f071a4521,,2026-10-28T08:50:16Z,2026-10-28 17:50,5 of 6 new videos got 0-2 views on day one,720639b
+235,910f8a71-48b3-4318-8c70-f8390dd9b6e6,,2026-10-28T09:00:13Z,2026-10-28 18:00,5 of 6 new videos got 0-2 views on day one,720639b
+236,5cb82f36-119b-4c44-90c6-981ae02ed6e9,,2026-10-28T10:05:32Z,2026-10-28 19:05,5 of 6 new videos got 0-2 views on day one,720639b
+237,8092acd0-6096-4998-a31d-2ac41643acac,,2026-10-28T10:26:30Z,2026-10-28 19:26,5 of 6 new videos got 0-2 views on day one,720639b
+238,b346c9a7-77a4-483a-9eaa-53f9b8c9adb5,,2026-10-28T10:41:33Z,2026-10-28 19:41,5 of 6 new videos got 0-2 views on day one,720639b
+239,60cfe286-2020-4a03-a7bf-b22becea1f2f,,2026-10-28T10:49:30Z,2026-10-28 19:49,5 of 6 new videos got 0-2 views on day one,720639b
+240,6a4fe0a2-382f-4415-aa3f-fbfea3c83829,,2026-10-28T11:05:51Z,2026-10-28 20:05,5 of 6 new videos got 0-2 views on day one,720639b
+241,2e2a2a56-091c-4417-bf98-5f040ec6f14b,,2026-10-28T12:04:08Z,2026-10-28 21:04,5 of 6 new videos got 0-2 views on day one,720639b
+242,7e7bb3fb-f8c1-4a10-a039-2f0fe688a7a2,,2026-10-28T12:59:33Z,2026-10-28 21:59,5 of 6 new videos got 0-2 views on day one,720639b
+243,7238cef6-c95d-44f4-8abd-e102e72667b6,,2026-10-28T13:51:40Z,2026-10-28 22:51,5 of 6 new videos got 0-2 views on day one,720639b
+244,1abb31a3-c166-4cc2-8c9e-0d642333e6c7,,2026-10-28T23:02:48Z,2026-10-29 08:02,Facebook blocked reel posts until the account was verified | YouTube channel got its first subscriber,
+245,2ad25278-5ffb-4c48-a366-f7430942fe7f,,2026-10-29T00:46:37Z,2026-10-29 09:46,Facebook blocked reel posts until the account was verified | YouTube channel got its first subscriber,
+246,ae9ccb70-bc18-48b2-a764-3fb82d33270a,,2026-10-29T00:59:52Z,2026-10-29 09:59,Facebook blocked reel posts until the account was verified | YouTube channel got its first subscriber,
+247,2a6155d5-a401-4e25-88de-423540902bc0,,2026-10-29T01:32:20Z,2026-10-29 10:32,Facebook blocked reel posts until the account was verified | YouTube channel got its first subscriber,
+248,b2210081-d753-48e4-b37f-febd654b8b0a,79006bf9-45f7-4032-8410-2241ae2d7e28,2026-10-29T01:41:55Z,2026-10-29 10:41,Facebook blocked reel posts until the account was verified | YouTube channel got its first subscriber,
+249,f91fb557-d61b-48ba-b7a0-ddad9b1cffac,b736f5ca-f072-4d3c-a127-1ea8a1668ea7,2026-10-29T01:53:16Z,2026-10-29 10:53,Facebook blocked reel posts until the account was verified | YouTube channel got its first subscriber,
+250,f98d47a8-4bc3-452e-a266-6b300239787d,5f5f55c5-f005-417f-aef5-fb8eac4a1317,2026-10-29T03:59:43Z,2026-10-29 12:59,Facebook blocked reel posts until the account was verified | YouTube channel got its first subscriber,
+251,9a617ba3-e0eb-4936-bd27-64e8ab514725,526378c2-6e64-487f-83a0-e70a49352b82,2026-10-29T05:06:03Z,2026-10-29 14:06,Facebook blocked reel posts until the account was verified | YouTube channel got its first subscriber,
+252,dd617659-2c53-4d09-917f-1e7c0dbfba8e,2ae74c56-2cc2-4cdd-a3c7-b0a2199b8de0,2026-10-29T06:56:35Z,2026-10-29 15:56,Facebook blocked reel posts until the account was verified | YouTube channel got its first subscriber,
+253,a6ae5d37-2aa4-418b-8c09-910963debf2d,84175d9b-af3b-4146-904a-572e15a69e97,2026-10-29T07:01:27Z,2026-10-29 16:01,Facebook blocked reel posts until the account was verified | YouTube channel got its first subscriber,
+254,b4e0d507-ad33-4dd8-8906-d463a26c3913,412fb0de-7d50-442d-aedd-aadebbcecd66,2026-10-29T07:04:27Z,2026-10-29 16:04,Facebook blocked reel posts until the account was verified | YouTube channel got its first subscriber,
+255,c3c36018-d437-4aa9-afc0-8bcc673ebd7e,8c20c398-9908-46af-be9a-bcf84d0251cc,2026-10-29T10:03:48Z,2026-10-29 19:03,Facebook blocked reel posts until the account was verified | YouTube channel got its first subscriber,
+256,d0b1a9f0-2821-463b-b994-009732fd0fca,b10a37ce-25e6-492c-a7b6-a0e39507eea1,2026-10-29T12:10:51Z,2026-10-29 21:10,Facebook blocked reel posts until the account was verified | YouTube channel got its first subscriber,
+257,62ea71c0-87f8-4071-bf45-f780e6233c01,02451adf-87db-4d07-aa65-b918a3edc932,2026-10-29T12:57:36Z,2026-10-29 21:57,Facebook blocked reel posts until the account was verified | YouTube channel got its first subscriber,
