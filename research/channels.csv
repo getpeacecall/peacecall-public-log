@@ -23,7 +23,7 @@ wordpress,WordPress.com,EN,active,yes,,,
 flipboard,Flipboard,EN,active,yes,,,
 note,note,JP,active,yes,,,
 mataroa,Mataroa,EN,active,yes,,,
-pixelfed,Pixelfed,EN,active,yes,,,
+pixelfed,Pixelfed,EN,paused,no,,2026-10-29,Paused by Jimmy 2026-10-29 (no output for 4 days; the account appears deleted)
 github,GitHub,EN,active,yes,,,
 flickr,Flickr,EN,paused,no,,,
 archive,Internet Archive,EN,active,yes,,,
@@ -56,7 +56,7 @@ wpjp,WordPress.com,JP,active,yes,,,
 nostr,Nostr,JP,active,yes,API,,
 carrd,Carrd,EN,active,yes,,,
 site123,SITE123,EN,active,yes,,,
-webnode,Webnode,EN,active,yes,,,
+webnode,Webnode,EN,paused,no,,2026-10-29,Paused by Jimmy 2026-10-29 (no output for 4 days)
 jimdo,Jimdo,EN,paused,no,,2026-10-25,Paused: login kept expiring and no visits
 wix,Wix,EN,active,yes,,,
 craft,Craft,EN,paused,no,,2026-10-25,Paused: login kept expiring and no visits
@@ -64,7 +64,7 @@ genially,Genially,EN,active,yes,,,
 coda,Coda,EN,active,yes,,,
 mmm,mmm.page,EN,active,yes,,,
 strikingly,Strikingly,EN,paused,no,,2026-10-25,Paused: login kept expiring and no visits
-soloto,solo.to,EN,active,yes,,,
+soloto,solo.to,EN,paused,no,,2026-10-29,Paused by Jimmy 2026-10-29 (no output for 4 days)
 lnkbio,Lnk.bio,EN,paused,no,,2026-10-25,Paused: login kept expiring and no visits
 beacons,Beacons,EN,active,yes,,,
 taplink,Taplink,EN,paused,no,,2026-10-25,Paused: login kept expiring and no visits
@@ -73,7 +73,7 @@ campsite,Campsite.bio,EN,paused,no,,2026-10-25,Paused: login kept expiring and n
 allmylinks,AllMyLinks,EN,active,yes,,,
 hoobe,hoo.be,EN,paused,no,,,
 litlink,lit.link,JP,active,yes,,,
-potofu,POTOFU,JP,active,yes,,,
+potofu,POTOFU,JP,paused,no,,2026-10-29,Paused by Jimmy 2026-10-29 (no output for 4 days)
 bmac,Buy Me a Coffee,EN,active,yes,,,
 codepen,CodePen,EN,active,yes,,,
 activepieces,Activepieces Community,EN,paused,no,,2026-10-25,Paused: login kept expiring and no visits
@@ -106,7 +106,7 @@ buttondown,Buttondown,EN,active,yes,,,
 sourceforge,SourceForge,EN,paused,no,,2026-10-25,Paused: login kept expiring and no visits
 gravatar,Gravatar,EN,active,yes,,,
 hackster,Hackster.io,EN,active,no,,,
-figma,Figma Community,EN,active,yes,,,
+figma,Figma Community,EN,paused,no,,2026-10-29,Paused by Jimmy 2026-10-29 (no output for 4 days)
 huggingface,Hugging Face,EN,paused,no,,2026-10-26,Paused: on hold (account and Space kept)
 observable,Observable,EN,paused,no,,2026-10-25,Paused: login kept expiring and no visits
 instagram,Instagram,EN,active,yes,API,,

@@ -242,17 +242,31 @@ version_number,version_id,deployment_id,created_utc,created_jst,build_log_same_d
 241,2e2a2a56-091c-4417-bf98-5f040ec6f14b,,2026-10-28T12:04:08Z,2026-10-28 21:04,5 of 6 new videos got 0-2 views on day one,720639b
 242,7e7bb3fb-f8c1-4a10-a039-2f0fe688a7a2,,2026-10-28T12:59:33Z,2026-10-28 21:59,5 of 6 new videos got 0-2 views on day one,720639b
 243,7238cef6-c95d-44f4-8abd-e102e72667b6,,2026-10-28T13:51:40Z,2026-10-28 22:51,5 of 6 new videos got 0-2 views on day one,720639b
-244,1abb31a3-c166-4cc2-8c9e-0d642333e6c7,,2026-10-28T23:02:48Z,2026-10-29 08:02,Facebook blocked reel posts until the account was verified | YouTube channel got its first subscriber,
-245,2ad25278-5ffb-4c48-a366-f7430942fe7f,,2026-10-29T00:46:37Z,2026-10-29 09:46,Facebook blocked reel posts until the account was verified | YouTube channel got its first subscriber,
-246,ae9ccb70-bc18-48b2-a764-3fb82d33270a,,2026-10-29T00:59:52Z,2026-10-29 09:59,Facebook blocked reel posts until the account was verified | YouTube channel got its first subscriber,
-247,2a6155d5-a401-4e25-88de-423540902bc0,,2026-10-29T01:32:20Z,2026-10-29 10:32,Facebook blocked reel posts until the account was verified | YouTube channel got its first subscriber,
-248,b2210081-d753-48e4-b37f-febd654b8b0a,79006bf9-45f7-4032-8410-2241ae2d7e28,2026-10-29T01:41:55Z,2026-10-29 10:41,Facebook blocked reel posts until the account was verified | YouTube channel got its first subscriber,
-249,f91fb557-d61b-48ba-b7a0-ddad9b1cffac,b736f5ca-f072-4d3c-a127-1ea8a1668ea7,2026-10-29T01:53:16Z,2026-10-29 10:53,Facebook blocked reel posts until the account was verified | YouTube channel got its first subscriber,
-250,f98d47a8-4bc3-452e-a266-6b300239787d,5f5f55c5-f005-417f-aef5-fb8eac4a1317,2026-10-29T03:59:43Z,2026-10-29 12:59,Facebook blocked reel posts until the account was verified | YouTube channel got its first subscriber,
-251,9a617ba3-e0eb-4936-bd27-64e8ab514725,526378c2-6e64-487f-83a0-e70a49352b82,2026-10-29T05:06:03Z,2026-10-29 14:06,Facebook blocked reel posts until the account was verified | YouTube channel got its first subscriber,
-252,dd617659-2c53-4d09-917f-1e7c0dbfba8e,2ae74c56-2cc2-4cdd-a3c7-b0a2199b8de0,2026-10-29T06:56:35Z,2026-10-29 15:56,Facebook blocked reel posts until the account was verified | YouTube channel got its first subscriber,
-253,a6ae5d37-2aa4-418b-8c09-910963debf2d,84175d9b-af3b-4146-904a-572e15a69e97,2026-10-29T07:01:27Z,2026-10-29 16:01,Facebook blocked reel posts until the account was verified | YouTube channel got its first subscriber,
-254,b4e0d507-ad33-4dd8-8906-d463a26c3913,412fb0de-7d50-442d-aedd-aadebbcecd66,2026-10-29T07:04:27Z,2026-10-29 16:04,Facebook blocked reel posts until the account was verified | YouTube channel got its first subscriber,
-255,c3c36018-d437-4aa9-afc0-8bcc673ebd7e,8c20c398-9908-46af-be9a-bcf84d0251cc,2026-10-29T10:03:48Z,2026-10-29 19:03,Facebook blocked reel posts until the account was verified | YouTube channel got its first subscriber,
-256,d0b1a9f0-2821-463b-b994-009732fd0fca,b10a37ce-25e6-492c-a7b6-a0e39507eea1,2026-10-29T12:10:51Z,2026-10-29 21:10,Facebook blocked reel posts until the account was verified | YouTube channel got its first subscriber,
-257,62ea71c0-87f8-4071-bf45-f780e6233c01,02451adf-87db-4d07-aa65-b918a3edc932,2026-10-29T12:57:36Z,2026-10-29 21:57,Facebook blocked reel posts until the account was verified | YouTube channel got its first subscriber,
+244,1abb31a3-c166-4cc2-8c9e-0d642333e6c7,,2026-10-28T23:02:48Z,2026-10-29 08:02,Facebook blocked reel posts until the account was verified | YouTube channel got its first subscriber,ee63932
+245,2ad25278-5ffb-4c48-a366-f7430942fe7f,,2026-10-29T00:46:37Z,2026-10-29 09:46,Facebook blocked reel posts until the account was verified | YouTube channel got its first subscriber,ee63932
+246,ae9ccb70-bc18-48b2-a764-3fb82d33270a,,2026-10-29T00:59:52Z,2026-10-29 09:59,Facebook blocked reel posts until the account was verified | YouTube channel got its first subscriber,ee63932
+247,2a6155d5-a401-4e25-88de-423540902bc0,,2026-10-29T01:32:20Z,2026-10-29 10:32,Facebook blocked reel posts until the account was verified | YouTube channel got its first subscriber,ee63932
+248,b2210081-d753-48e4-b37f-febd654b8b0a,,2026-10-29T01:41:55Z,2026-10-29 10:41,Facebook blocked reel posts until the account was verified | YouTube channel got its first subscriber,ee63932
+249,f91fb557-d61b-48ba-b7a0-ddad9b1cffac,,2026-10-29T01:53:16Z,2026-10-29 10:53,Facebook blocked reel posts until the account was verified | YouTube channel got its first subscriber,ee63932
+250,f98d47a8-4bc3-452e-a266-6b300239787d,,2026-10-29T03:59:43Z,2026-10-29 12:59,Facebook blocked reel posts until the account was verified | YouTube channel got its first subscriber,ee63932
+251,9a617ba3-e0eb-4936-bd27-64e8ab514725,,2026-10-29T05:06:03Z,2026-10-29 14:06,Facebook blocked reel posts until the account was verified | YouTube channel got its first subscriber,ee63932
+252,dd617659-2c53-4d09-917f-1e7c0dbfba8e,,2026-10-29T06:56:35Z,2026-10-29 15:56,Facebook blocked reel posts until the account was verified | YouTube channel got its first subscriber,ee63932
+253,a6ae5d37-2aa4-418b-8c09-910963debf2d,,2026-10-29T07:01:27Z,2026-10-29 16:01,Facebook blocked reel posts until the account was verified | YouTube channel got its first subscriber,ee63932
+254,b4e0d507-ad33-4dd8-8906-d463a26c3913,,2026-10-29T07:04:27Z,2026-10-29 16:04,Facebook blocked reel posts until the account was verified | YouTube channel got its first subscriber,ee63932
+255,c3c36018-d437-4aa9-afc0-8bcc673ebd7e,,2026-10-29T10:03:48Z,2026-10-29 19:03,Facebook blocked reel posts until the account was verified | YouTube channel got its first subscriber,ee63932
+256,d0b1a9f0-2821-463b-b994-009732fd0fca,,2026-10-29T12:10:51Z,2026-10-29 21:10,Facebook blocked reel posts until the account was verified | YouTube channel got its first subscriber,ee63932
+257,62ea71c0-87f8-4071-bf45-f780e6233c01,,2026-10-29T12:57:36Z,2026-10-29 21:57,Facebook blocked reel posts until the account was verified | YouTube channel got its first subscriber,ee63932
+258,74bab4c1-9fab-4b78-9ad8-458fd0a5549a,,2026-10-29T13:57:11Z,2026-10-29 22:57,Facebook blocked reel posts until the account was verified | YouTube channel got its first subscriber,ee63932
+259,6943e467-1a27-4bb0-ba97-ca9bccf77cda,,2026-10-30T00:50:30Z,2026-10-30 09:50,"759 posting-site actions in a week, 4 visits | Zencastr logged out; Ameba and CodePen still out",
+260,0d8c799c-479d-4666-9292-477eda85860c,,2026-10-30T00:50:49Z,2026-10-30 09:50,"759 posting-site actions in a week, 4 visits | Zencastr logged out; Ameba and CodePen still out",
+261,c031264c-bd33-41ca-8e58-ab1685cf0ee0,,2026-10-30T00:55:19Z,2026-10-30 09:55,"759 posting-site actions in a week, 4 visits | Zencastr logged out; Ameba and CodePen still out",
+262,5bafc7cf-cdb6-4239-a8f6-7d1b4f367162,f0b634ad-07e0-4a6b-acc5-bd8d9675cc87,2026-10-30T00:55:43Z,2026-10-30 09:55,"759 posting-site actions in a week, 4 visits | Zencastr logged out; Ameba and CodePen still out",
+263,c74e06b4-e844-43bc-b454-9627e438a423,79520d3c-a835-476f-b386-d109bd859cbc,2026-10-30T01:05:29Z,2026-10-30 10:05,"759 posting-site actions in a week, 4 visits | Zencastr logged out; Ameba and CodePen still out",
+264,8a6996e5-7667-4f02-8601-d77f09319c96,1ec566bd-4e3d-460d-a4aa-76e0be7e1e68,2026-10-30T01:31:05Z,2026-10-30 10:31,"759 posting-site actions in a week, 4 visits | Zencastr logged out; Ameba and CodePen still out",
+265,3de3d177-38d0-4b8c-9775-995331fce2c4,db2f188a-2ee8-45d1-9cb9-11e45d3dd555,2026-10-30T01:45:12Z,2026-10-30 10:45,"759 posting-site actions in a week, 4 visits | Zencastr logged out; Ameba and CodePen still out",
+266,2cf44c47-7af1-43d6-ba29-c33fecd0f676,4cb0c25f-d29f-430b-b1ef-9433c9801681,2026-10-30T04:06:49Z,2026-10-30 13:06,"759 posting-site actions in a week, 4 visits | Zencastr logged out; Ameba and CodePen still out",
+267,cca682f5-d0e5-4944-b0ee-b2233d29d4cf,c61f42e5-b2b9-4627-a48d-0ef584e665cb,2026-10-30T05:08:32Z,2026-10-30 14:08,"759 posting-site actions in a week, 4 visits | Zencastr logged out; Ameba and CodePen still out",
+268,47de42cb-4884-4a74-958a-a730ace56e50,45b7c004-d08c-43d9-b393-5501a40b40e2,2026-10-30T06:58:57Z,2026-10-30 15:58,"759 posting-site actions in a week, 4 visits | Zencastr logged out; Ameba and CodePen still out",
+269,1cd671d2-b162-4447-aab1-1a428a5149ed,4787c15e-8cb5-4bac-8881-a970c58f2f73,2026-10-30T10:07:05Z,2026-10-30 19:07,"759 posting-site actions in a week, 4 visits | Zencastr logged out; Ameba and CodePen still out",
+270,5878b840-d5ca-470b-8efd-89383adeed16,506de681-0d93-4469-bf9a-294fc8a2ca47,2026-10-30T12:01:46Z,2026-10-30 21:01,"759 posting-site actions in a week, 4 visits | Zencastr logged out; Ameba and CodePen still out",
+271,a3f1e0d1-1112-4ceb-9726-c31b87aca3fe,15a99acc-7219-452c-a426-7707d58a8a39,2026-10-30T12:56:11Z,2026-10-30 21:56,"759 posting-site actions in a week, 4 visits | Zencastr logged out; Ameba and CodePen still out",
