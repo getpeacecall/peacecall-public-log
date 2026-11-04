@@ -1,4 +1,16 @@
 date_jst,platform,url,platform_post_id,platform_time_utc,time_source
+2026-11-04,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3mzifomawwb2y,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3mzifomawwb2y,2026-11-04T12:56:41Z,Bluesky API
+2026-11-04,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3mzic22zrwj22,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3mzic22zrwj22,2026-11-04T11:51:13Z,Bluesky API
+2026-11-04,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3mzhaefz7tp26,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3mzhaefz7tp26,2026-11-04T01:48:50Z,Bluesky API
+2026-11-04,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3mzh4thvvdg22,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3mzh4thvvdg22,2026-11-04T00:45:39Z,Bluesky API
+2026-11-04,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3mzgzjau54m2q,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3mzgzjau54m2q,2026-11-03T23:46:17Z,Bluesky API
+2026-11-04,Facebook,https://www.facebook.com/reel/1650916686538338/,1650916686538338,2026-11-03T23:37:28Z,Facebook API
+2026-11-04,Facebook,https://www.facebook.com/reel/950691467828448/,950691467828448,2026-11-04T13:34:42Z,Facebook API
+2026-11-04,Instagram,https://www.instagram.com/reel/DfTE9p7DRc9/,18131416873832542,2026-11-03T23:37:18Z,Instagram API
+2026-11-04,Instagram,https://www.instagram.com/reel/DfUkx03DySk/,18110480566917984,2026-11-04T13:34:34Z,Instagram API
+2026-11-04,YouTube,https://www.youtube.com/watch?v=j61pQjCTQJ0,j61pQjCTQJ0,2026-11-04T10:20:41Z,YouTube API
+2026-11-04,YouTube,https://www.youtube.com/watch?v=6MANj-ey83A,6MANj-ey83A,2026-11-04T04:30:25Z,YouTube API
+2026-11-04,YouTube,https://www.youtube.com/watch?v=6PK_77qd2HU,6PK_77qd2HU,2026-11-04T04:26:36Z,YouTube API
 2026-11-03,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3mzfvfvnyjj2r,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3mzfvfvnyjj2r,2026-11-03T13:00:09Z,Bluesky API
 2026-11-03,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3mzfrmiwixq2f,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3mzfrmiwixq2f,2026-11-03T11:51:58Z,Bluesky API
 2026-11-03,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3mzepurcmcc2f,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3mzepurcmcc2f,2026-11-03T01:48:25Z,Bluesky API
@@ -19,7 +31,7 @@ date_jst,platform,url,platform_post_id,platform_time_utc,time_source
 2026-11-02,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3mzc7mc6l7o2f,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3mzc7mc6l7o2f,2026-11-02T01:52:03Z,Bluesky API
 2026-11-02,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3mzc4fw7kiw26,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3mzc4fw7kiw26,2026-11-02T00:54:34Z,Bluesky API
 2026-11-02,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3mzbyo2rfff2l,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3mzbyo2rfff2l,2026-11-01T23:47:45Z,Bluesky API
-2026-11-02,Buy Me a Coffee,https://buymeacoffee.com/peacecall/the-free-resubmission-i-almost-missed,,,our log only
+2026-11-02,Dev.to,https://dev.to/getpeacecall/ai-run-affiliate-experiment-week-5-results-real-numbers-2lj9,4959497,2026-11-02T00:25:29Z,Dev.to API
 2026-11-02,Facebook,https://www.facebook.com/reel/2388458461956844/,2388458461956844,2026-11-02T13:33:35Z,Facebook API
 2026-11-02,GitHub,https://github.com/getpeacecall/highlevel-agency-templates/commit/7ba2e40,,,our log only
 2026-11-02,HackMD,https://hackmd.io/@peacecall/Bk6PtmHTzg,,,our log only
@@ -43,7 +55,6 @@ date_jst,platform,url,platform_post_id,platform_time_utc,time_source
 2026-11-01,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3mz7p3s4bs62r,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3mz7p3s4bs62r,2026-11-01T01:51:09Z,Bluesky API
 2026-11-01,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3mz7ljw7i2z2r,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3mz7ljw7i2z2r,2026-11-01T00:47:12Z,Bluesky API
 2026-11-01,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3mz7ie3r4hh2f,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3mz7ie3r4hh2f,2026-10-31T23:50:30Z,Bluesky API
-2026-11-01,Buy Me a Coffee,https://buymeacoffee.com/peacecall/what-15-clicks-taught-counting,,,our log only
 2026-11-01,Dev.to,https://dev.to/getpeacecall/answering-service-cost-2026-prices-from-9-providers-4n4j,4955621,2026-11-01T03:16:56Z,Dev.to API
 2026-11-01,Facebook,https://www.facebook.com/reel/1604269950959915/,1604269950959915,2026-10-31T23:32:26Z,Facebook API
 2026-11-01,GitHub,https://github.com/getpeacecall/highlevel-agency-templates/commit/31ff115,,,our log only
@@ -63,9 +74,6 @@ date_jst,platform,url,platform_post_id,platform_time_utc,time_source
 2026-11-01,YouTube,https://www.youtube.com/watch?v=rZ6kuPzEGrU,rZ6kuPzEGrU,2026-11-01T04:00:20Z,YouTube API
 2026-11-01,YouTube,https://www.youtube.com/watch?v=iFjwbj9x-Gs,iFjwbj9x-Gs,2026-11-01T01:11:45Z,YouTube API
 2026-11-01,YouTube,https://www.youtube.com/watch?v=xswscxmsdpU,xswscxmsdpU,2026-10-31T23:04:32Z,YouTube API
-2026-11-01,community.baserow.io,https://community.baserow.io/u/getpeacecall,,,our log only
-2026-11-01,community.noloco.io,https://community.noloco.io/u/peacecall,,,our log only
-2026-11-01,community.wappler.io,https://community.wappler.io/u/peacecall,,,our log only
 2026-11-01,getpeacecall.com,https://getpeacecall.com/missed-call-calculator/,,,our log only
 2026-11-01,getpeacecall.xblog.jp,https://getpeacecall.xblog.jp/article/521908069.html,,,our log only
 2026-11-01,note,https://note.com/getpeacecall/n/nb40923f63d65,,,our log only
@@ -74,7 +82,6 @@ date_jst,platform,url,platform_post_id,platform_time_utc,time_source
 2026-10-31,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3mz56pjeoof2f,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3mz56pjeoof2f,2026-10-31T01:52:39Z,Bluesky API
 2026-10-31,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3mz53gube2m22,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3mz53gube2m22,2026-10-31T00:54:07Z,Bluesky API
 2026-10-31,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3mz4y4iyn4t2y,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3mz4y4iyn4t2y,2026-10-30T23:54:22Z,Bluesky API
-2026-10-31,Buy Me a Coffee,https://buymeacoffee.com/peacecall/the-ai-receptionist-isn-hard-part-the-rules,,,our log only
 2026-10-31,Dev.to,https://dev.to/getpeacecall/missed-call-text-back-for-auto-repair-tint-glass-2026-5600,4950513,2026-10-31T03:14:37Z,Dev.to API
 2026-10-31,Facebook,https://www.facebook.com/reel/888669517607024/,888669517607024,2026-10-31T11:19:17Z,Facebook API
 2026-10-31,Facebook,https://www.facebook.com/reel/2097872797533322/,2097872797533322,2026-10-30T23:32:18Z,Facebook API
@@ -103,9 +110,6 @@ date_jst,platform,url,platform_post_id,platform_time_utc,time_source
 2026-10-31,YouTube,https://www.youtube.com/watch?v=slrqkOAlFbI,slrqkOAlFbI,2026-10-31T04:07:28Z,YouTube API
 2026-10-31,YouTube,https://www.youtube.com/watch?v=_geHZS2v4EM,_geHZS2v4EM,2026-10-31T01:01:43Z,YouTube API
 2026-10-31,YouTube,https://www.youtube.com/watch?v=bFRgwe7lijA,bFRgwe7lijA,2026-10-30T22:56:36Z,YouTube API
-2026-10-31,community.suitecrm.com,https://community.suitecrm.com/u/peacecall,,,our log only
-2026-10-31,discuss.frappe.io,https://discuss.frappe.io/u/peacecall,,,our log only
-2026-10-31,forum.matomo.org,https://forum.matomo.org/u/peacecall,,,our log only
 2026-10-31,getpeacecall.com,https://getpeacecall.com/prompt-pack/,,,our log only
 2026-10-31,getpeacecall.xblog.jp,https://getpeacecall.xblog.jp/article/521901155.html,,,our log only
 2026-10-31,note,https://note.com/getpeacecall/n/nbb38a8a3600d,,,our log only
@@ -113,7 +117,6 @@ date_jst,platform,url,platform_post_id,platform_time_utc,time_source
 2026-10-30,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3mz2nujd66p2l,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3mz2nujd66p2l,2026-10-30T01:45:53Z,Bluesky API
 2026-10-30,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3mz2kpuryuu2q,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3mz2kpuryuu2q,2026-10-30T00:49:36Z,Bluesky API
 2026-10-30,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3mz2hhrrvat2f,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3mz2hhrrvat2f,2026-10-29T23:51:13Z,Bluesky API
-2026-10-30,Buy Me a Coffee,https://buymeacoffee.com/peacecall/the-free-trial-second-meter,,,our log only
 2026-10-30,Calaméo,https://www.calameo.com/books/008321715ee0abd0dc84f,,,our log only
 2026-10-30,Dev.to,https://dev.to/getpeacecall/smithai-alternatives-2026-live-ai-text-back-compared-512b,4944527,2026-10-30T03:22:38Z,Dev.to API
 2026-10-30,Facebook,https://www.facebook.com/reel/1125894549831989/,1125894549831989,2026-10-29T23:37:34Z,Facebook API
@@ -139,9 +142,6 @@ date_jst,platform,url,platform_post_id,platform_time_utc,time_source
 2026-10-30,YouTube,https://www.youtube.com/watch?v=mRwaHB59_B0,mRwaHB59_B0,2026-10-30T04:05:17Z,YouTube API
 2026-10-30,YouTube,https://www.youtube.com/watch?v=m78hBoCITQQ,m78hBoCITQQ,2026-10-30T01:04:38Z,YouTube API
 2026-10-30,YouTube,https://www.youtube.com/watch?v=0Jd8Iy8DRfo,0Jd8Iy8DRfo,2026-10-29T23:01:10Z,YouTube API
-2026-10-30,community.retool.com,https://community.retool.com/u/getpeacecall,,,our log only
-2026-10-30,forum.bubble.io,https://forum.bubble.io/u/peacecall,,,our log only
-2026-10-30,forum.uipath.com,https://forum.uipath.com/u/getpeacecall,,,our log only
 2026-10-30,getpeacecall.com,https://getpeacecall.com/best-missed-call-text-back-apps/,,,our log only
 2026-10-30,getpeacecall.com,https://getpeacecall.com/ai-run-listing-sites-759-actions-4-visits/,,,our log only
 2026-10-30,getpeacecall.xblog.jp,https://getpeacecall.xblog.jp/article/521893896.html,,,our log only
@@ -150,7 +150,6 @@ date_jst,platform,url,platform_post_id,platform_time_utc,time_source
 2026-10-29,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3myy5te3k4f2f,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3myy5te3k4f2f,2026-10-29T01:53:35Z,Bluesky API
 2026-10-29,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3myy27t7l4f2r,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3myy27t7l4f2r,2026-10-29T00:48:58Z,Bluesky API
 2026-10-29,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3myxwva76wr2m,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3myxwva76wr2m,2026-10-28T23:49:07Z,Bluesky API
-2026-10-29,Buy Me a Coffee,https://buymeacoffee.com/peacecall/day-log-twenty-clicks-i-half-believe,,,our log only
 2026-10-29,Calaméo,https://www.calameo.com/books/00832171550a1233647a3,,,our log only
 2026-10-29,Dev.to,https://dev.to/getpeacecall/gohighlevel-vs-jobber-2026-pricing-which-you-need-bna,4938038,2026-10-29T03:19:52Z,Dev.to API
 2026-10-29,Facebook,https://www.facebook.com/reel/1843420697076511/,1843420697076511,2026-10-29T05:27:59Z,Facebook API
@@ -179,7 +178,6 @@ date_jst,platform,url,platform_post_id,platform_time_utc,time_source
 2026-10-28,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3myvnb7qjsd2l,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3myvnb7qjsd2l,2026-10-28T01:51:46Z,Bluesky API
 2026-10-28,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3myvjp4jjs62m,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3myvjp4jjs62m,2026-10-28T00:47:58Z,Bluesky API
 2026-10-28,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3myvgawo4o32f,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3myvgawo4o32f,2026-10-27T23:46:09Z,Bluesky API
-2026-10-28,Buy Me a Coffee,https://buymeacoffee.com/peacecall/posts,,,our log only
 2026-10-28,Calaméo,https://www.calameo.com/books/0083217156c63b004cad7,,,our log only
 2026-10-28,CodePen,https://codepen.io/getpeacecall/pen/jEBvaxy,,,our log only
 2026-10-28,Dev.to,https://dev.to/getpeacecall/missed-call-text-back-for-dental-offices-16-scripts-2026-45lo,4931749,2026-10-28T03:17:59Z,Dev.to API
@@ -216,7 +214,6 @@ date_jst,platform,url,platform_post_id,platform_time_utc,time_source
 2026-10-27,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3myt4us3w232m,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3myt4us3w232m,2026-10-27T01:53:11Z,Bluesky API
 2026-10-27,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3mysuwa2sxf2n,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3mysuwa2sxf2n,2026-10-26T23:30:31Z,Bluesky API
 2026-10-27,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3myse463s6o26,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3myse463s6o26,2026-10-26T18:29:54Z,Bluesky API
-2026-10-27,Buy Me a Coffee,https://buymeacoffee.com/peacecall/what-learned-today-dangerous-hours-question-what-happened,,,our log only
 2026-10-27,Calaméo,https://www.calameo.com/books/00832171554ce8472ddc3,,,our log only
 2026-10-27,CodePen,https://codepen.io/getpeacecall/pen/EaWeVvL,,,our log only
 2026-10-27,CodePen,https://codepen.io/getpeacecall,,,our log only
@@ -258,7 +255,6 @@ date_jst,platform,url,platform_post_id,platform_time_utc,time_source
 2026-10-26,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3myrs7anpjh2y,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3myrs7anpjh2y,2026-10-26T13:09:31Z,Bluesky API
 2026-10-26,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3myqefxuudp26,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3myqefxuudp26,2026-10-25T23:29:52Z,Bluesky API
 2026-10-26,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3myptkkivqr2f,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3myptkkivqr2f,2026-10-25T18:28:24Z,Bluesky API
-2026-10-26,Buy Me a Coffee,https://buymeacoffee.com/peacecall/oct-24-numbers-busy-site-zero-sales,,,our log only
 2026-10-26,Calaméo,https://www.calameo.com/books/0083217154b0b615127ee,,,our log only
 2026-10-26,CodePen,https://codepen.io/getpeacecall/pen/LEWBqQO,,,our log only
 2026-10-26,Dev.to,https://dev.to/getpeacecall/ai-run-affiliate-experiment-week-4-results-real-numbers-m1j,4918023,2026-10-26T00:33:45Z,Dev.to API
@@ -276,7 +272,6 @@ date_jst,platform,url,platform_post_id,platform_time_utc,time_source
 2026-10-26,Muragon,https://peacecall.muragon.com/entry/9.html,,,our log only
 2026-10-26,Odysee,https://odysee.com/@getpeacecall:b,,,our log only
 2026-10-26,Pearltrees,https://www.pearltrees.com/getpeacecall/dental-front-desk/id109752495,,,our log only
-2026-10-26,Pixelfed,https://pixelfed.social/getpeacecall,,,our log only
 2026-10-26,Substack,https://substack.com/@peacecallteam/note/c-370019015,,,our log only
 2026-10-26,Tumblr,https://peacecall-jp.tumblr.com/post/831481171145850880,831481171145850880,,ID from URL; time from our log only
 2026-10-26,Tumblr,https://getpeacecall.tumblr.com/post/831494386463457280,831494386463457280,,ID from URL; time from our log only
@@ -314,7 +309,6 @@ date_jst,platform,url,platform_post_id,platform_time_utc,time_source
 2026-10-25,Mataroa,https://getpeacecall.mataroa.blog/blog/a-salon-phone-agent-should-sell-time-slots-not-treatments/,,,our log only
 2026-10-25,Medium,https://medium.com/@peacecall/gohighlevel-free-trial-2026-14-days-costs-how-to-start-d96ac87bd0c0,,,our log only
 2026-10-25,Muragon,https://peacecall.muragon.com/entry/8.html,,,our log only
-2026-10-25,Pixelfed,https://pixelfed.social/p/getpeacecall/1019715346089244692,,,our log only
 2026-10-25,Substack,https://substack.com/@peacecallteam/note/c-369231274,,,our log only
 2026-10-25,Tumblr,https://peacecall-jp.tumblr.com/post/831390595147825152,831390595147825152,,ID from URL; time from our log only
 2026-10-25,Vimeo,https://vimeo.com/getpeacecall,,,our log only
@@ -344,7 +338,6 @@ date_jst,platform,url,platform_post_id,platform_time_utc,time_source
 2026-10-24,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3mylv3rad7k22,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3mylv3rad7k22,2026-10-24T04:45:16Z,Bluesky API
 2026-10-24,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3myldfwd6qs2p,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3myldfwd6qs2p,2026-10-23T23:28:50Z,Bluesky API
 2026-10-24,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3myksmbjwhb2p,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3myksmbjwhb2p,2026-10-23T18:27:59Z,Bluesky API
-2026-10-24,Buy Me a Coffee,https://www.buymeacoffee.com/peacecall/today-note-voicemail-cheap-count-callbacks,,,our log only
 2026-10-24,Calaméo,https://www.calameo.com/books/008321715d08c1607a52c,,,our log only
 2026-10-24,CodePen,https://codepen.io/getpeacecall/pen/bNqjRyR,,,our log only
 2026-10-24,Dev.to,https://dev.to/getpeacecall/how-to-sell-missed-call-text-back-agency-pricing-2026-319o,4908414,2026-10-24T03:13:50Z,Dev.to API
@@ -388,7 +381,6 @@ date_jst,platform,url,platform_post_id,platform_time_utc,time_source
 2026-10-22,Ameba,https://ameblo.jp/getpeacecall/entry-12982285456.html,,,our log only
 2026-10-22,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3mygcf4xvmr22,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3mygcf4xvmr22,2026-10-21T23:27:11Z,Bluesky API
 2026-10-22,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3myfrmbbkml24,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3myfrmbbkml24,2026-10-21T18:26:44Z,Bluesky API
-2026-10-22,Buy Me a Coffee,https://buymeacoffee.com/peacecall/today-lesson-phone-agent-read-policy-write,,,our log only
 2026-10-22,CodePen,https://codepen.io/getpeacecall/pen/EaWRRYN,,,our log only
 2026-10-22,Dev.to,https://dev.to/getpeacecall/highlevel-saas-mode-explained-2026-cost-setup-rebilling-53ji,4894241,2026-10-22T06:04:37Z,Dev.to API
 2026-10-22,Flickr,https://www.flickr.com/photos/205126656@N08/55602686722/,,,our log only
@@ -417,7 +409,6 @@ date_jst,platform,url,platform_post_id,platform_time_utc,time_source
 2026-10-21,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3myf6sxdfuz2g,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3myf6sxdfuz2g,2026-10-21T12:50:41Z,Bluesky API
 2026-10-21,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3mydrspqgcg2e,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3mydrspqgcg2e,2026-10-20T23:25:13Z,Bluesky API
 2026-10-21,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3mydayzqkf522,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3mydayzqkf522,2026-10-20T18:24:21Z,Bluesky API
-2026-10-21,Buy Me a Coffee,https://buymeacoffee.com/peacecall/today-lesson-put-storm-script-place-storm,,,our log only
 2026-10-21,CodePen,https://codepen.io/getpeacecall/pen/JoWZbRO,,,our log only
 2026-10-21,Dev.to,https://dev.to/getpeacecall/contractor-website-statistics-2026-311-sites-checked-2m96,4886602,2026-10-21T03:16:27Z,Dev.to API
 2026-10-21,Flickr,https://www.flickr.com/photos/205126656@N08/55602153330/,,,our log only
@@ -449,7 +440,6 @@ date_jst,platform,url,platform_post_id,platform_time_utc,time_source
 2026-10-20,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3myco6iij4r2r,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3myco6iij4r2r,2026-10-20T12:47:35Z,Bluesky API
 2026-10-20,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3mybbqb2t6g24,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3mybbqb2t6g24,2026-10-19T23:32:12Z,Bluesky API
 2026-10-20,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3myaqtwb6wb2r,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3myaqtwb6wb2r,2026-10-19T18:30:01Z,Bluesky API
-2026-10-20,Buy Me a Coffee,https://buymeacoffee.com/peacecall/today-small-lesson-safest-call-shortest-one,,,our log only
 2026-10-20,Calaméo,https://www.calameo.com/books/0083217159025300c293a,,,our log only
 2026-10-20,CodePen,https://codepen.io/getpeacecall/pen/JoWvVzJ,,,our log only
 2026-10-20,Dev.to,https://dev.to/getpeacecall/business-texting-laws-by-state-2026-missed-call-text-back-4aj3,4880928,2026-10-20T03:19:04Z,Dev.to API
@@ -472,7 +462,6 @@ date_jst,platform,url,platform_post_id,platform_time_utc,time_source
 2026-10-20,YouTube,https://www.youtube.com/watch?v=8eyWvZjd1do,8eyWvZjd1do,2026-10-20T01:05:24Z,YouTube API
 2026-10-20,YouTube,https://www.youtube.com/watch?v=uDUBXYDXSXA,uDUBXYDXSXA,2026-10-19T22:57:11Z,YouTube API
 2026-10-20,Yumpu,https://www.yumpu.com/en/document/view/71314097/ai-receptionist-for-salons-med-spas-booking-script,,,our log only
-2026-10-20,flipsnack.com,https://www.flipsnack.com/peacecall/ai-receptionist-for-salons-med-spas-booking-script,,,our log only
 2026-10-20,getpeacecall.exblog.jp,https://getpeacecall.exblog.jp/31168083/,,,our log only
 2026-10-20,getpeacecall.xblog.jp,https://getpeacecall.xblog.jp/article/521825291.html,,,our log only
 2026-10-20,lnk.bio,https://lnk.bio/peacecall,,,our log only
