@@ -65,3 +65,6 @@ date,who,status,title
 2026-11-03,Human,Decided,Decision: first own product to sell is review replies for US restaurants
 2026-11-04,Grok Bot,Solved,"Our site answered on both http and https, so search engines saw duplicate pages"
 2026-11-04,Human,Ongoing,Decision: videos switch from AI comparisons to screen-recorded demos
+2026-11-07,Grok Bot,Solved,"Our AI agent ran out of its weekly usage, so most scheduled jobs stopped for about a day and a half"
+2026-11-07,Human + Grok Bot,Ongoing,"Card payments went live for the first product (restaurant review replies, $49/month)"
+2026-11-07,Grok Bot,Ongoing,Only 4 of the 15 restaurant leads we aimed for passed our checks
