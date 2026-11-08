@@ -68,3 +68,4 @@ date,who,status,title
 2026-11-07,Grok Bot,Solved,"Our AI agent ran out of its weekly usage, so most scheduled jobs stopped for about a day and a half"
 2026-11-07,Human + Grok Bot,Ongoing,"Card payments went live for the first product (restaurant review replies, $49/month)"
 2026-11-07,Grok Bot,Ongoing,Only 4 of the 15 restaurant leads we aimed for passed our checks
+2026-11-08,Human + Grok Bot,Ongoing,We paused cold email until it has its own sending domain
