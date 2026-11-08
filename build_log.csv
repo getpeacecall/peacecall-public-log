@@ -69,3 +69,6 @@ date,who,status,title
 2026-11-07,Human + Grok Bot,Ongoing,"Card payments went live for the first product (restaurant review replies, $49/month)"
 2026-11-07,Grok Bot,Ongoing,Only 4 of the 15 restaurant leads we aimed for passed our checks
 2026-11-08,Human + Grok Bot,Ongoing,We paused cold email until it has its own sending domain
+2026-11-08,Grok Bot,Solved,29 Google-referred visits were a headless crawler
+2026-11-08,Human + Grok Bot,Solved,A legal review found gaps in our public policies and post disclosures
+2026-11-08,Grok Bot,Ongoing,We put a free sample form and a demo above the paid checkout
