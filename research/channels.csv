@@ -23,9 +23,9 @@ wordpress,WordPress.com,EN,active,yes,,,
 flipboard,Flipboard,EN,active,yes,,,
 note,note,JP,active,yes,,,
 mataroa,Mataroa,EN,active,yes,,,
-pixelfed,Pixelfed,EN,paused,no,,2026-10-29,Paused by Jimmy 2026-10-29 (no output for 4 days; the account appears deleted)
+pixelfed,Pixelfed,EN,dropped,no,,2026-11-10,"Invisible from outside, retired per Jimmy 11/10"
 github,GitHub,EN,active,yes,,,
-flickr,Flickr,EN,paused,no,,,
+flickr,Flickr,EN,dropped,no,,2026-11-10,"Invisible from outside, retired per Jimmy 11/10"
 archive,Internet Archive,EN,active,yes,,,
 raindrop,Raindrop.io,EN,active,yes,,,
 arena,Are.na,EN,active,yes,,,
@@ -78,26 +78,26 @@ bmac,Buy Me a Coffee,EN,active,yes,,,
 codepen,CodePen,EN,active,yes,,,
 activepieces,Activepieces Community,EN,paused,no,,2026-10-25,Paused: login kept expiring and no visits
 ghost,Ghost Forum,EN,active,yes,,,
-softr,Softr Community,EN,paused,no,,2026-10-25,Paused: login kept expiring and no visits
-baserow,Baserow Community,EN,active,yes,,,
+softr,Softr Community,EN,dropped,no,,2026-11-10,"Invisible from outside, retired per Jimmy 11/10"
+baserow,Baserow Community,EN,dropped,no,,2026-11-10,"Invisible from outside, retired per Jimmy 11/10"
 nocodb,NocoDB Community,EN,paused,no,,2026-10-25,Paused: login kept expiring and no visits
 mautic,Mautic Forum,EN,active,yes,,,
 weweb,WeWeb Community,EN,active,yes,,,
 freepbx,FreePBX Community,EN,active,yes,,,
 asterisk,Asterisk Community,EN,active,yes,,,
-frappe,Frappe Forum,EN,active,yes,,,
-matomo,Matomo Forums,EN,active,yes,,,
-suitecrm,SuiteCRM Community,EN,active,yes,,,
-wappler,Wappler Community,EN,active,yes,,,
-bubble,Bubble Forum,EN,active,yes,,,
+frappe,Frappe Forum,EN,dropped,no,,2026-11-10,"Invisible from outside, retired per Jimmy 11/10"
+matomo,Matomo Forums,EN,dropped,no,,2026-11-10,"Invisible from outside, retired per Jimmy 11/10"
+suitecrm,SuiteCRM Community,EN,dropped,no,,2026-11-10,"Invisible from outside, retired per Jimmy 11/10"
+wappler,Wappler Community,EN,dropped,no,,2026-11-10,"Invisible from outside, retired per Jimmy 11/10"
+bubble,Bubble Forum,EN,dropped,no,,2026-11-10,"Invisible from outside, retired per Jimmy 11/10"
 rasa,Rasa Community Forum,EN,paused,no,,2026-10-25,Paused: login kept expiring and no visits
 openai,OpenAI Developer Community,EN,active,yes,,,
 hfforum,Hugging Face Forums,EN,active,yes,,,
-noloco,Noloco Community,EN,active,yes,,,
+noloco,Noloco Community,EN,dropped,no,,2026-11-10,"Invisible from outside, retired per Jimmy 11/10"
 tadabase,Tadabase Community,EN,active,yes,,,
-retool,Retool Community,EN,active,yes,,,
+retool,Retool Community,EN,dropped,no,,2026-11-10,"Invisible from outside, retired per Jimmy 11/10"
 n8n,n8n Community,EN,active,yes,,,
-uipath,UiPath Forum,EN,active,yes,,,
+uipath,UiPath Forum,EN,dropped,no,,2026-11-10,"Invisible from outside, retired per Jimmy 11/10"
 ukbf,UK Business Forums,EN,active,yes,,,
 reddit,Reddit,EN,active,yes,,,
 quora,Quora,EN/JP,active,yes,,,
@@ -114,9 +114,9 @@ facebook,Facebook Page,EN,active,yes,API,,
 mastodon,Mastodon,EN,dropped,no,,2026-10-24,mastodon.social suspended the account after a complaint about an unsolicited reply
 pinterest,Pinterest,EN,dropped,discontinued,,2026-10-19,Pinterest blocked our domain; appeal rejected
 speakerdeck,Speaker Deck,EN,paused,no,,2026-10-25,Paused: login kept expiring and no visits
-mozello,Mozello,EN,error,blocked,,2026-10-18,Site shown as suspended; waiting on support
+mozello,Mozello,EN,dropped,no,,2026-11-10,"Invisible from outside, retired per Jimmy 11/10"
 seesaawiki,Seesaa Wiki,JP,dropped,no,,2026-10-19,Editor kept failing (HTTP 503); dropped
 hashnode,Hashnode,EN,stopped,blocked,,2026-10-18,Paid plan required to continue (we do not pay)
-invoiceninja,Invoice Ninja Forum,EN,stopped,blocked,,2026-10-18,Forum account disappeared
-glide,Glide Community,EN,stopped,blocked,,2026-10-18,Forum account disappeared
-bearblog,Bear Blog,EN,stopped,blocked,,2026-10-18,Terms ban promotional blogs
+invoiceninja,Invoice Ninja Forum,EN,dropped,no,,2026-11-10,"Invisible from outside, retired per Jimmy 11/10"
+glide,Glide Community,EN,dropped,no,,2026-11-10,"Invisible from outside, retired per Jimmy 11/10"
+bearblog,Bear Blog,EN,dropped,no,,2026-11-10,"Invisible from outside, retired per Jimmy 11/10"
