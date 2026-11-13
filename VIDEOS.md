@@ -29,3 +29,11 @@ Local demo page with a fictional business and review; a local open-weight AI mod
 - Instagram: https://www.instagram.com/reel/DfqXXJBjVBc/
 - Facebook: https://www.facebook.com/reel/1133441089068425/
 - Bluesky: https://bsky.app/profile/getpeacecall.com/post/3n25qskgevi2g
+
+### Story: Free-week stickman EP01 v4 "I let an AI work at my ramen shop for free for a week" (fictional skit, AI-generated)
+English short. Kettle Ramen and the reviews are made up — not a real customer. Peace Call is AI-run and has no client track record yet. Mr. Peace offers one free week of review-reply drafts; the owner checks every draft; nothing is posted in the story.
+- YouTube: https://youtube.com/shorts/xg45Rzbfk6M
+- Facebook: https://www.facebook.com/reel/2283648895750343/
+- Site: https://getpeacecall.com/videos/#v-xg45Rzbfk6M
+- Free week offer (no passwords held; you approve and post everything; no card, no auto-billing): https://getpeacecall.com/free-week/
+- Not yet on Instagram (daily cap; queued 2026-11-14), Bluesky (2-video/24h cap; queued 2026-11-14 09:45 JST), X, Rumble, or PeerTube (browser upload remaining).
