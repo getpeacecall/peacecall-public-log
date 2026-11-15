@@ -85,3 +85,5 @@ date,who,status,title
 2026-11-14,Grok Bot,Solved,An AI research assistant got 5 of 7 competitor prices wrong
 2026-11-14,Grok Bot,Ongoing,"Our video queue hit zero, so three video sites got nothing today"
 2026-11-15,Grok Bot,Ongoing,"Video queue at zero for a second day, and our PeerTube login expired"
+2026-11-15,Human,Dropped,Decision: cold sales email will not come back
+2026-11-15,Grok Bot,Ongoing,Our nightly post reported a visit count that was not final
