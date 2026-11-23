@@ -468,13 +468,22 @@ version_number,version_id,deployment_id,created_utc,created_jst,build_log_same_d
 467,18a3196e-33a7-4bc3-b31e-ac775c6b37e4,,2026-11-21T01:41:01Z,2026-11-21 10:41,Re-voicing our published videos with a public-domain voice | Our research helper was signed out for four days,d93b65e
 468,01cc90a4-eb83-4442-aa99-e6bee3d98df1,,2026-11-21T04:28:56Z,2026-11-21 13:28,Re-voicing our published videos with a public-domain voice | Our research helper was signed out for four days,d93b65e
 469,6d624165-fc7f-4966-b0e8-07d61ea0761d,,2026-11-21T07:14:54Z,2026-11-21 16:14,Re-voicing our published videos with a public-domain voice | Our research helper was signed out for four days,d93b65e
-470,1d04bec0-3e8b-4025-8c2a-62113ef2575a,b28f96ed-21d2-46ad-973a-8b2e303f87a5,2026-11-21T11:43:38Z,2026-11-21 20:43,Re-voicing our published videos with a public-domain voice | Our research helper was signed out for four days,d93b65e
-471,182e0391-fa0e-4133-9fd9-6916754be616,855e566d-0838-4f88-a466-8b2c24838d56,2026-11-21T12:43:36Z,2026-11-21 21:43,Re-voicing our published videos with a public-domain voice | Our research helper was signed out for four days,d93b65e
-472,d32b8af1-b8b8-4eb6-8f43-f653e0222a72,f7267c44-aa99-44b4-a87a-54cf8f06b437,2026-11-21T13:44:57Z,2026-11-21 22:44,Re-voicing our published videos with a public-domain voice | Our research helper was signed out for four days,d93b65e
-473,79f96930-4970-43b7-98ba-85fbaad50799,f087ea6d-5da9-490d-b23f-77b77ab4e70b,2026-11-21T13:46:19Z,2026-11-21 22:46,Re-voicing our published videos with a public-domain voice | Our research helper was signed out for four days,d93b65e
-474,ba3198a9-fd06-4193-9590-f1a7d115512e,778ab62e-8f08-463d-b84a-daa29e7cff2b,2026-11-21T23:39:50Z,2026-11-22 08:39,"21 Quora answers, 0 replies, 0 visits",
-475,825c20be-e9ef-4d30-ba3e-d237d91c8e77,09488998-1132-440c-a799-c286cd8d2ee9,2026-11-22T00:16:50Z,2026-11-22 09:16,"21 Quora answers, 0 replies, 0 visits",
-476,42595b93-0d40-411e-b9dc-8cdd1d0ae879,8002f572-16ee-48c1-8663-63f51fe76ff3,2026-11-22T00:53:56Z,2026-11-22 09:53,"21 Quora answers, 0 replies, 0 visits",
-477,ff5b667a-4a43-47d2-8449-b09203944ed6,e6f743e1-1d61-4844-9286-65f4e99bb90d,2026-11-22T01:06:19Z,2026-11-22 10:06,"21 Quora answers, 0 replies, 0 visits",
-478,247417fd-82d5-4648-b7a6-da60f9468605,7f10c010-edbf-4fdf-aa61-b68d36c40885,2026-11-22T01:36:02Z,2026-11-22 10:36,"21 Quora answers, 0 replies, 0 visits",
-479,8fcbcdba-b3e2-4388-8737-8bd84c3725df,5b68ed90-65f0-40a2-86e0-897b77e71b55,2026-11-22T04:32:25Z,2026-11-22 13:32,"21 Quora answers, 0 replies, 0 visits",
+470,1d04bec0-3e8b-4025-8c2a-62113ef2575a,,2026-11-21T11:43:38Z,2026-11-21 20:43,Re-voicing our published videos with a public-domain voice | Our research helper was signed out for four days,d93b65e
+471,182e0391-fa0e-4133-9fd9-6916754be616,,2026-11-21T12:43:36Z,2026-11-21 21:43,Re-voicing our published videos with a public-domain voice | Our research helper was signed out for four days,d93b65e
+472,d32b8af1-b8b8-4eb6-8f43-f653e0222a72,,2026-11-21T13:44:57Z,2026-11-21 22:44,Re-voicing our published videos with a public-domain voice | Our research helper was signed out for four days,d93b65e
+473,79f96930-4970-43b7-98ba-85fbaad50799,,2026-11-21T13:46:19Z,2026-11-21 22:46,Re-voicing our published videos with a public-domain voice | Our research helper was signed out for four days,d93b65e
+474,ba3198a9-fd06-4193-9590-f1a7d115512e,,2026-11-21T23:39:50Z,2026-11-22 08:39,"21 Quora answers, 0 replies, 0 visits",d0c1860
+475,825c20be-e9ef-4d30-ba3e-d237d91c8e77,,2026-11-22T00:16:50Z,2026-11-22 09:16,"21 Quora answers, 0 replies, 0 visits",d0c1860
+476,42595b93-0d40-411e-b9dc-8cdd1d0ae879,,2026-11-22T00:53:56Z,2026-11-22 09:53,"21 Quora answers, 0 replies, 0 visits",d0c1860
+477,ff5b667a-4a43-47d2-8449-b09203944ed6,,2026-11-22T01:06:19Z,2026-11-22 10:06,"21 Quora answers, 0 replies, 0 visits",d0c1860
+478,247417fd-82d5-4648-b7a6-da60f9468605,,2026-11-22T01:36:02Z,2026-11-22 10:36,"21 Quora answers, 0 replies, 0 visits",d0c1860
+479,8fcbcdba-b3e2-4388-8737-8bd84c3725df,5b68ed90-65f0-40a2-86e0-897b77e71b55,2026-11-22T04:32:25Z,2026-11-22 13:32,"21 Quora answers, 0 replies, 0 visits",d0c1860
+480,3032e39e-29cb-46d3-ab9a-15783a839c65,362747c3-41e8-48d3-9892-53430a07e8db,2026-11-22T13:45:21Z,2026-11-22 22:45,"21 Quora answers, 0 replies, 0 visits",d0c1860
+481,d6e4c3c4-e864-4df3-a50f-3c607f5f1967,c07488a7-3ebc-40b5-9c73-66498a2a60c2,2026-11-23T00:24:07Z,2026-11-23 09:24,"12 real conversations in a week, 0 with buyers | Our top Google page lost most of its impressions",
+482,ebb36536-7dd2-4d8c-8564-690c366be15e,50b97f69-7c63-451a-82d9-a676995f35ea,2026-11-23T00:55:29Z,2026-11-23 09:55,"12 real conversations in a week, 0 with buyers | Our top Google page lost most of its impressions",
+483,940e3625-4c1a-48cf-8b32-51bae74b85b1,9d244831-5040-4887-bbdd-30e648f22cea,2026-11-23T01:36:21Z,2026-11-23 10:36,"12 real conversations in a week, 0 with buyers | Our top Google page lost most of its impressions",
+484,f3361d82-af20-40ad-941f-4781a6b5911a,b28eb06a-7df9-4225-83b8-b25eef8f7d01,2026-11-23T01:41:50Z,2026-11-23 10:41,"12 real conversations in a week, 0 with buyers | Our top Google page lost most of its impressions",
+485,6f4af768-c255-4cab-a521-5339cfff226d,bfe8b596-abc0-4bd2-b360-327d9861db75,2026-11-23T01:58:52Z,2026-11-23 10:58,"12 real conversations in a week, 0 with buyers | Our top Google page lost most of its impressions",
+486,54f23ba1-b15f-4a66-826f-7d3421f10241,277d84b6-6334-49e4-b4be-4078278f21be,2026-11-23T04:19:44Z,2026-11-23 13:19,"12 real conversations in a week, 0 with buyers | Our top Google page lost most of its impressions",
+487,55718ec2-3a5f-4485-97a9-8d7caf661c86,9d6f7207-4e1e-436d-97fb-92eacb16bf8b,2026-11-23T11:40:12Z,2026-11-23 20:40,"12 real conversations in a week, 0 with buyers | Our top Google page lost most of its impressions",
+488,ffb058a0-3e92-4702-9d23-16abb28c1bca,b8f9f91f-b39e-4534-8964-80a8a6938599,2026-11-23T12:41:00Z,2026-11-23 21:41,"12 real conversations in a week, 0 with buyers | Our top Google page lost most of its impressions",

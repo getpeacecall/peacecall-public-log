@@ -1,4 +1,12 @@
 date_jst,platform,url,platform_post_id,platform_time_utc,time_source
+2026-11-23,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3n2y5ohp6tm2k,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3n2y5ohp6tm2k,2026-11-23T12:41:14Z,Bluesky API
+2026-11-23,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3n2wyawoupr2c,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3n2wyawoupr2c,2026-11-23T01:31:31Z,Bluesky API
+2026-11-23,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3n2wup6tglt2p,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3n2wup6tglt2p,2026-11-23T00:27:10Z,Bluesky API
+2026-11-23,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3n2wuekyiop2c,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3n2wuekyiop2c,2026-11-23T00:21:57Z,Bluesky API
+2026-11-23,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3n2wrgylfyq2h,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3n2wrgylfyq2h,2026-11-22T23:29:38Z,Bluesky API
+2026-11-23,Facebook,https://www.facebook.com/reel/1457431659190805/,,,our log only
+2026-11-23,Instagram,https://www.instagram.com/reel/DgEAP2UjTeL/,18097090451191337,2026-11-22T23:38:48Z,Instagram API
+2026-11-23,YouTube,https://www.youtube.com/watch?v=34uIyYGP8r8,34uIyYGP8r8,2026-11-23T04:19:18Z,YouTube API
 2026-11-22,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3n2vnbi6s4s2h,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3n2vnbi6s4s2h,2026-11-22T12:42:18Z,Bluesky API
 2026-11-22,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3n2uhyuwqz52g,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3n2uhyuwqz52g,2026-11-22T01:34:23Z,Bluesky API
 2026-11-22,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3n2ue7stp3w2c,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3n2ue7stp3w2c,2026-11-22T00:27:39Z,Bluesky API
@@ -7,6 +15,7 @@ date_jst,platform,url,platform_post_id,platform_time_utc,time_source
 2026-11-22,Instagram,https://www.instagram.com/reel/DgBbpdYCDxd/,18139798624656103,2026-11-21T23:40:57Z,Instagram API
 2026-11-22,Quora,https://getpeacecall.com/ai-run-quora-answers-zero-replies/,,,our log only
 2026-11-22,Quora,https://www.quora.com/How-much-does-it-cost-to-outsource-customer-service-for-a-small-business/answer/Peace-Call,,,our log only
+2026-11-22,X,https://x.com/getpeacecall/status/2124488070200525216,,,our log only
 2026-11-22,YouTube,https://www.youtube.com/watch?v=nI3tD_gKFE8,nI3tD_gKFE8,2026-11-22T04:29:49Z,YouTube API
 2026-11-22,getpeacecall.com,https://getpeacecall.com/missed-call-text-back-garage-door/,,,our log only
 2026-11-21,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3n2t4u6gi2j23,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3n2t4u6gi2j23,2026-11-21T12:43:13Z,Bluesky API
@@ -65,8 +74,8 @@ date_jst,platform,url,platform_post_id,platform_time_utc,time_source
 2026-11-14,Facebook,https://www.facebook.com/reel/1127453566871395/,1127453566871395,2026-11-14T01:33:44Z,Facebook API
 2026-11-14,Facebook,https://www.facebook.com/reel/1443835284019216/,1443835284019216,2026-11-14T13:38:27Z,Facebook API
 2026-11-14,Instagram,https://www.instagram.com/reel/DftCOm4D9Cc/,18104857502048573,2026-11-14T01:33:37Z,Instagram API
-2026-11-14,Instagram,https://www.instagram.com/reel/DfuVc-tDY0D/,17955773640325957,2026-11-14T13:40:57Z,Instagram API
 2026-11-14,Instagram,https://www.instagram.com/reel/Dfs0o9lgBpr/,18068942513789703,2026-11-13T23:35:17Z,Instagram API
+2026-11-14,Instagram,https://www.instagram.com/reel/DfuVc-tDY0D/,17955773640325957,2026-11-14T13:40:57Z,Instagram API
 2026-11-14,getpeacecall.com,https://getpeacecall.com/answering-service-cost-estimator/,,,our log only
 2026-11-13,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3n274glpzzd2z,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3n274glpzzd2z,2026-11-13T13:42:04Z,Bluesky API
 2026-11-13,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3n26zqyfw4o2e,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3n26zqyfw4o2e,2026-11-13T12:54:30Z,Bluesky API
@@ -78,9 +87,9 @@ date_jst,platform,url,platform_post_id,platform_time_utc,time_source
 2026-11-13,Facebook,https://www.facebook.com/reel/2283648895750343/,2283648895750343,2026-11-13T13:34:49Z,Facebook API
 2026-11-13,Facebook,https://www.facebook.com/reel/1133441089068425/,1133441089068425,2026-11-13T00:40:40Z,Facebook API
 2026-11-13,Instagram,https://www.instagram.com/reel/DfqPXllDGdj/,18111013661630574,2026-11-12T23:30:41Z,Instagram API
-2026-11-13,Instagram,https://www.instagram.com/reel/DfrxXOtn_CT/,18183130648444697,2026-11-13T13:47:18Z,Instagram API
 2026-11-13,Instagram,https://www.instagram.com/reel/DfrvbwXDjQW/,17964767145251063,2026-11-13T13:30:34Z,Instagram API
 2026-11-13,Instagram,https://www.instagram.com/reel/DfqXXJBjVBc/,17875682112649457,2026-11-13T00:40:33Z,Instagram API
+2026-11-13,Instagram,https://www.instagram.com/reel/DfrxXOtn_CT/,18183130648444697,2026-11-13T13:47:18Z,Instagram API
 2026-11-13,PeerTube,https://peertube.watch/w/cA5Qs91M6XRdhhnMrCFc1S,,,our log only
 2026-11-13,PeerTube,https://peertube.watch/w/jwiKGTYdykkjfKLur9yGwm,,,our log only
 2026-11-13,X,https://x.com/getpeacecall/status/2121168040704254357,,,our log only
@@ -164,8 +173,8 @@ date_jst,platform,url,platform_post_id,platform_time_utc,time_source
 2026-11-07,Facebook,https://www.facebook.com/reel/1439557451007824/,1439557451007824,2026-11-06T23:34:13Z,Facebook API
 2026-11-07,Flipboard,https://flipboard.com/@getpeacecall,,,our log only
 2026-11-07,Instagram,https://www.instagram.com/reel/DfbAco2HF3f/,18075687074582002,2026-11-07T01:31:43Z,Instagram API
-2026-11-07,Instagram,https://www.instagram.com/reel/DfazBckGHWo/,18147318463612211,2026-11-06T23:34:23Z,Instagram API
 2026-11-07,Instagram,https://www.instagram.com/reel/Dfay_fOgPCN/,17981569280917908,2026-11-06T23:34:07Z,Instagram API
+2026-11-07,Instagram,https://www.instagram.com/reel/DfazBckGHWo/,18147318463612211,2026-11-06T23:34:23Z,Instagram API
 2026-11-07,YouTube,https://www.youtube.com/watch?v=ZQSyEQ66dUo,ZQSyEQ66dUo,2026-11-07T04:21:24Z,YouTube API
 2026-11-07,YouTube,https://www.youtube.com/watch?v=yakqExTmQOw,yakqExTmQOw,2026-11-07T03:58:39Z,YouTube API
 2026-11-07,YouTube,https://www.youtube.com/watch?v=q5ijMF_EDnA,q5ijMF_EDnA,2026-11-06T23:48:34Z,YouTube API
@@ -337,8 +346,8 @@ date_jst,platform,url,platform_post_id,platform_time_utc,time_source
 2026-10-29,HackMD,https://hackmd.io/@peacecall/Hy40qhxpMl,,,our log only
 2026-10-29,Hatena,https://getpeacecall.hatenablog.com/entry/2026/10/29/122344,,,our log only
 2026-10-29,Instagram,https://www.instagram.com/reel/DfD2Ai5jbXA/,17897166975418894,2026-10-29T01:37:57Z,Instagram API
-2026-10-29,Instagram,https://www.instagram.com/reel/DfFHqM9kbEx/,18645621802019090,2026-10-29T13:31:26Z,Instagram API
 2026-10-29,Instagram,https://www.instagram.com/reel/DfDntX2AdXW/,18219062194346258,2026-10-28T23:33:00Z,Instagram API
+2026-10-29,Instagram,https://www.instagram.com/reel/DfFHqM9kbEx/,18645621802019090,2026-10-29T13:31:26Z,Instagram API
 2026-10-29,Mataroa,https://getpeacecall.mataroa.blog/blog/the-after-hours-question-a-law-firm-should-not-ask/,,,our log only
 2026-10-29,Medium,https://medium.com/@peacecall/how-to-sell-missed-call-text-back-agency-pricing-2026-523609956665,,,our log only
 2026-10-29,Medium,https://medium.com/@peacecall,,,our log only
@@ -405,8 +414,8 @@ date_jst,platform,url,platform_post_id,platform_time_utc,time_source
 2026-10-27,HackMD,https://hackmd.io/@peacecall/B1vfbS6nzl,,,our log only
 2026-10-27,Hatena,https://getpeacecall.hatenablog.com/entry/2026/10/27/122438,,,our log only
 2026-10-27,Instagram,https://www.instagram.com/reel/De_y-rvitis/,18113720870132555,2026-10-27T11:54:33Z,Instagram API
-2026-10-27,Instagram,https://www.instagram.com/reel/De_PofuDTWq/,18128120131884484,2026-10-27T06:45:34Z,Instagram API
 2026-10-27,Instagram,https://www.instagram.com/reel/De-tYQCEmli/,17915864229499027,2026-10-27T01:46:22Z,Instagram API
+2026-10-27,Instagram,https://www.instagram.com/reel/De_PofuDTWq/,18128120131884484,2026-10-27T06:45:34Z,Instagram API
 2026-10-27,Internet Archive,https://archive.org/details/peacecall-2026-10-27-gohighlevel-saas-mode,,,our log only
 2026-10-27,Mastodon,https://mstdn.jp/@peacecall/117509252106890228,,,our log only
 2026-10-27,Mataroa,https://getpeacecall.mataroa.blog/blog/why-highlevel-texts-fail-before-theyre-ever-sent-a-plain-summary-of-a2p-10dlc/,,,our log only
@@ -501,7 +510,6 @@ date_jst,platform,url,platform_post_id,platform_time_utc,time_source
 2026-10-25,YouTube,https://www.youtube.com/watch?v=Qp2Zv8qmaBA,Qp2Zv8qmaBA,2026-10-25T07:00:09Z,YouTube API
 2026-10-25,YouTube,https://www.youtube.com/watch?v=qX2AtUTH5CQ,qX2AtUTH5CQ,2026-10-25T04:06:16Z,YouTube API
 2026-10-25,YouTube,https://www.youtube.com/watch?v=NvhFA95z2Ms,NvhFA95z2Ms,2026-10-25T01:05:00Z,YouTube API
-2026-10-25,YouTube,https://www.youtube.com/watch?v=lefhoN917-o,lefhoN917-o,2026-10-24T23:04:50Z,YouTube API
 2026-10-25,buttondown.com,https://buttondown.com/getpeacecall,,,our log only
 2026-10-25,figma.com,https://www.figma.com/@getpeacecall,,,our log only
 2026-10-25,getpeacecall.com,https://getpeacecall.com/ai-cold-email-experiment-mistakes/,,,our log only
@@ -532,9 +540,9 @@ date_jst,platform,url,platform_post_id,platform_time_utc,time_source
 2026-10-24,HackMD,https://hackmd.io/@peacecall/HJ8TwOF3zg,,,our log only
 2026-10-24,Hatena,https://b.hatena.ne.jp/getpeacecall/,,,our log only
 2026-10-24,Instagram,https://www.instagram.com/reel/De3hATIDAft/,17869488342661835,2026-10-24T06:43:33Z,Instagram API
+2026-10-24,Instagram,https://www.instagram.com/reel/De3DG0wkrIT/,17982043509120784,2026-10-24T02:22:17Z,Instagram API
 2026-10-24,Instagram,https://www.instagram.com/p/De4V3gslyiv/,17996225793031145,2026-10-24T14:25:11Z,Instagram API
 2026-10-24,Instagram,https://www.instagram.com/p/De3Tn7elx30/,18097595237438543,2026-10-24T04:46:18Z,Instagram API
-2026-10-24,Instagram,https://www.instagram.com/reel/De3DG0wkrIT/,17982043509120784,2026-10-24T02:22:17Z,Instagram API
 2026-10-24,Internet Archive,https://archive.org/details/peacecall-2026-10-24-ai-receptionist-vs-answering-service-vs-voicemail,,,our log only
 2026-10-24,Mastodon,https://mstdn.jp/@peacecall/117493035819986864,,,our log only
 2026-10-24,Mastodon,https://mstdn.jp/@peacecall/117496131184980702,,,our log only
