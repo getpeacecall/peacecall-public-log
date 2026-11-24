@@ -477,13 +477,23 @@ version_number,version_id,deployment_id,created_utc,created_jst,build_log_same_d
 476,42595b93-0d40-411e-b9dc-8cdd1d0ae879,,2026-11-22T00:53:56Z,2026-11-22 09:53,"21 Quora answers, 0 replies, 0 visits",d0c1860
 477,ff5b667a-4a43-47d2-8449-b09203944ed6,,2026-11-22T01:06:19Z,2026-11-22 10:06,"21 Quora answers, 0 replies, 0 visits",d0c1860
 478,247417fd-82d5-4648-b7a6-da60f9468605,,2026-11-22T01:36:02Z,2026-11-22 10:36,"21 Quora answers, 0 replies, 0 visits",d0c1860
-479,8fcbcdba-b3e2-4388-8737-8bd84c3725df,5b68ed90-65f0-40a2-86e0-897b77e71b55,2026-11-22T04:32:25Z,2026-11-22 13:32,"21 Quora answers, 0 replies, 0 visits",d0c1860
-480,3032e39e-29cb-46d3-ab9a-15783a839c65,362747c3-41e8-48d3-9892-53430a07e8db,2026-11-22T13:45:21Z,2026-11-22 22:45,"21 Quora answers, 0 replies, 0 visits",d0c1860
-481,d6e4c3c4-e864-4df3-a50f-3c607f5f1967,c07488a7-3ebc-40b5-9c73-66498a2a60c2,2026-11-23T00:24:07Z,2026-11-23 09:24,"12 real conversations in a week, 0 with buyers | Our top Google page lost most of its impressions",
-482,ebb36536-7dd2-4d8c-8564-690c366be15e,50b97f69-7c63-451a-82d9-a676995f35ea,2026-11-23T00:55:29Z,2026-11-23 09:55,"12 real conversations in a week, 0 with buyers | Our top Google page lost most of its impressions",
-483,940e3625-4c1a-48cf-8b32-51bae74b85b1,9d244831-5040-4887-bbdd-30e648f22cea,2026-11-23T01:36:21Z,2026-11-23 10:36,"12 real conversations in a week, 0 with buyers | Our top Google page lost most of its impressions",
-484,f3361d82-af20-40ad-941f-4781a6b5911a,b28eb06a-7df9-4225-83b8-b25eef8f7d01,2026-11-23T01:41:50Z,2026-11-23 10:41,"12 real conversations in a week, 0 with buyers | Our top Google page lost most of its impressions",
-485,6f4af768-c255-4cab-a521-5339cfff226d,bfe8b596-abc0-4bd2-b360-327d9861db75,2026-11-23T01:58:52Z,2026-11-23 10:58,"12 real conversations in a week, 0 with buyers | Our top Google page lost most of its impressions",
-486,54f23ba1-b15f-4a66-826f-7d3421f10241,277d84b6-6334-49e4-b4be-4078278f21be,2026-11-23T04:19:44Z,2026-11-23 13:19,"12 real conversations in a week, 0 with buyers | Our top Google page lost most of its impressions",
-487,55718ec2-3a5f-4485-97a9-8d7caf661c86,9d6f7207-4e1e-436d-97fb-92eacb16bf8b,2026-11-23T11:40:12Z,2026-11-23 20:40,"12 real conversations in a week, 0 with buyers | Our top Google page lost most of its impressions",
-488,ffb058a0-3e92-4702-9d23-16abb28c1bca,b8f9f91f-b39e-4534-8964-80a8a6938599,2026-11-23T12:41:00Z,2026-11-23 21:41,"12 real conversations in a week, 0 with buyers | Our top Google page lost most of its impressions",
+479,8fcbcdba-b3e2-4388-8737-8bd84c3725df,,2026-11-22T04:32:25Z,2026-11-22 13:32,"21 Quora answers, 0 replies, 0 visits",d0c1860
+480,3032e39e-29cb-46d3-ab9a-15783a839c65,,2026-11-22T13:45:21Z,2026-11-22 22:45,"21 Quora answers, 0 replies, 0 visits",d0c1860
+481,d6e4c3c4-e864-4df3-a50f-3c607f5f1967,,2026-11-23T00:24:07Z,2026-11-23 09:24,"12 real conversations in a week, 0 with buyers | Our top Google page lost most of its impressions",aa2c05c
+482,ebb36536-7dd2-4d8c-8564-690c366be15e,,2026-11-23T00:55:29Z,2026-11-23 09:55,"12 real conversations in a week, 0 with buyers | Our top Google page lost most of its impressions",aa2c05c
+483,940e3625-4c1a-48cf-8b32-51bae74b85b1,,2026-11-23T01:36:21Z,2026-11-23 10:36,"12 real conversations in a week, 0 with buyers | Our top Google page lost most of its impressions",aa2c05c
+484,f3361d82-af20-40ad-941f-4781a6b5911a,,2026-11-23T01:41:50Z,2026-11-23 10:41,"12 real conversations in a week, 0 with buyers | Our top Google page lost most of its impressions",aa2c05c
+485,6f4af768-c255-4cab-a521-5339cfff226d,,2026-11-23T01:58:52Z,2026-11-23 10:58,"12 real conversations in a week, 0 with buyers | Our top Google page lost most of its impressions",aa2c05c
+486,54f23ba1-b15f-4a66-826f-7d3421f10241,,2026-11-23T04:19:44Z,2026-11-23 13:19,"12 real conversations in a week, 0 with buyers | Our top Google page lost most of its impressions",aa2c05c
+487,55718ec2-3a5f-4485-97a9-8d7caf661c86,,2026-11-23T11:40:12Z,2026-11-23 20:40,"12 real conversations in a week, 0 with buyers | Our top Google page lost most of its impressions",aa2c05c
+488,ffb058a0-3e92-4702-9d23-16abb28c1bca,,2026-11-23T12:41:00Z,2026-11-23 21:41,"12 real conversations in a week, 0 with buyers | Our top Google page lost most of its impressions",aa2c05c
+489,fe420eb7-5a25-44b3-a080-493c02be3223,bebc85f1-7114-4f2a-9cf7-48c5eb32a071,2026-11-23T13:46:30Z,2026-11-23 22:46,"12 real conversations in a week, 0 with buyers | Our top Google page lost most of its impressions",aa2c05c
+490,a81e5775-57f4-44d4-9880-1505b16b63d9,eee4b382-db8b-4714-9a24-19d5b001211d,2026-11-23T23:44:36Z,2026-11-24 08:44,A YouTube re-upload started from zero views and lost its tags | Our first sponsor pitch got a polite no,
+491,06cb0a34-7bc6-46e7-b005-9f14dc31e09d,b36e23ad-7afc-4661-a40c-fbb934ba1cb2,2026-11-24T00:30:15Z,2026-11-24 09:30,A YouTube re-upload started from zero views and lost its tags | Our first sponsor pitch got a polite no,
+492,2451faf1-226f-44f5-aecf-3a938525ae4a,ca783367-15d2-4271-874b-55fde2e61ec5,2026-11-24T00:51:21Z,2026-11-24 09:51,A YouTube re-upload started from zero views and lost its tags | Our first sponsor pitch got a polite no,
+493,1aa27a99-6512-472e-bb71-c742a3c267bf,fcc8461d-e34d-4335-8f58-3f8e7d5cae33,2026-11-24T01:38:05Z,2026-11-24 10:38,A YouTube re-upload started from zero views and lost its tags | Our first sponsor pitch got a polite no,
+494,9cdd4ef2-b79f-4453-8dcc-cddb9f9c0719,c0a15a9c-0d84-411d-b48a-dac66b6ff83b,2026-11-24T01:43:55Z,2026-11-24 10:43,A YouTube re-upload started from zero views and lost its tags | Our first sponsor pitch got a polite no,
+495,93f034b5-eda0-4cb5-83ec-7148fba35ff2,e671bd0b-0046-4b24-ad22-8a50f7b7b850,2026-11-24T04:32:35Z,2026-11-24 13:32,A YouTube re-upload started from zero views and lost its tags | Our first sponsor pitch got a polite no,
+496,b7f1e049-5a30-495b-a8c8-f99f5f30b92a,76157d71-37a9-47e8-9d3d-a768ce09bb79,2026-11-24T09:29:31Z,2026-11-24 18:29,A YouTube re-upload started from zero views and lost its tags | Our first sponsor pitch got a polite no,
+497,40321d09-757b-4e8d-9661-c904db86fc9e,bb88e46d-ded4-4137-8080-9b721b7f687c,2026-11-24T11:35:45Z,2026-11-24 20:35,A YouTube re-upload started from zero views and lost its tags | Our first sponsor pitch got a polite no,
+498,2d0200e5-8bb5-47c8-9264-12295a58706e,a502d251-73df-4cb6-9144-5697928e1520,2026-11-24T12:41:38Z,2026-11-24 21:41,A YouTube re-upload started from zero views and lost its tags | Our first sponsor pitch got a polite no,

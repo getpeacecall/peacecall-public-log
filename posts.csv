@@ -1,10 +1,23 @@
 date_jst,platform,url,platform_post_id,platform_time_utc,time_source
+2026-11-24,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3n32o6vmqdf2k,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3n32o6vmqdf2k,2026-11-24T12:42:04Z,Bluesky API
+2026-11-24,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3n2zip3wpdr2g,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3n2zip3wpdr2g,2026-11-24T01:31:06Z,Bluesky API
+2026-11-24,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3n2zfaotbpu2q,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3n2zfaotbpu2q,2026-11-24T00:29:02Z,Bluesky API
+2026-11-24,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3n2zf2fnr2m2p,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3n2zf2fnr2m2p,2026-11-24T00:25:50Z,Bluesky API
+2026-11-24,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3n2zbqkzmh42k,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3n2zbqkzmh42k,2026-11-23T23:26:39Z,Bluesky API
+2026-11-24,Facebook,https://www.facebook.com/reel/1883832523050794/,1883832523050794,2026-11-24T00:28:18Z,Facebook API
+2026-11-24,Instagram,https://www.instagram.com/reel/DgGy9ZKD777/,18117556696864221,2026-11-24T01:40:26Z,Instagram API
+2026-11-24,Instagram,https://www.instagram.com/reel/DgGlzavk1Kc/,17914875147488656,2026-11-23T23:45:29Z,Instagram API
+2026-11-24,Instagram,https://www.instagram.com/reel/DgGqshTDA0H/,18115075220167895,2026-11-24T00:28:12Z,Instagram API
+2026-11-24,X,https://x.com/getpeacecall/status/2125182641817235785,,,our log only
+2026-11-24,X,https://x.com/getpeacecall/status/2125182647978827811,,,our log only
+2026-11-24,YouTube,https://www.youtube.com/watch?v=i88xd3HgNFs,i88xd3HgNFs,2026-11-24T04:30:58Z,YouTube API
+2026-11-24,YouTube,https://www.youtube.com/watch?v=qhfu5dqxM4o,qhfu5dqxM4o,2026-11-24T00:27:53Z,YouTube API
 2026-11-23,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3n2y5ohp6tm2k,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3n2y5ohp6tm2k,2026-11-23T12:41:14Z,Bluesky API
 2026-11-23,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3n2wyawoupr2c,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3n2wyawoupr2c,2026-11-23T01:31:31Z,Bluesky API
 2026-11-23,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3n2wup6tglt2p,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3n2wup6tglt2p,2026-11-23T00:27:10Z,Bluesky API
 2026-11-23,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3n2wuekyiop2c,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3n2wuekyiop2c,2026-11-23T00:21:57Z,Bluesky API
 2026-11-23,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3n2wrgylfyq2h,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3n2wrgylfyq2h,2026-11-22T23:29:38Z,Bluesky API
-2026-11-23,Facebook,https://www.facebook.com/reel/1457431659190805/,,,our log only
+2026-11-23,Facebook,https://www.facebook.com/reel/1457431659190805/,1457431659190805,2026-11-23T13:40:07Z,Facebook API
 2026-11-23,Instagram,https://www.instagram.com/reel/DgEAP2UjTeL/,18097090451191337,2026-11-22T23:38:48Z,Instagram API
 2026-11-23,YouTube,https://www.youtube.com/watch?v=34uIyYGP8r8,34uIyYGP8r8,2026-11-23T04:19:18Z,YouTube API
 2026-11-22,Bluesky,https://bsky.app/profile/getpeacecall.com/post/3n2vnbi6s4s2h,at://did:plc:cqwfqatgjagtgq4ndaajs574/app.bsky.feed.post/3n2vnbi6s4s2h,2026-11-22T12:42:18Z,Bluesky API
@@ -557,7 +570,6 @@ date_jst,platform,url,platform_post_id,platform_time_utc,time_source
 2026-10-24,Tumblr,https://peacecall-jp.tumblr.com/post/831311765375713280,831311765375713280,,ID from URL; time from our log only
 2026-10-24,Tumblr,https://getpeacecall.tumblr.com/post/831362098459230208,831362098459230208,,ID from URL; time from our log only
 2026-10-24,WordPress,https://getpeacecall.wordpress.com/2026/10/24/the-three-calls-an-hvac-or-plumbing-ai-receptionist-must-never-keep-on-the-line/,,,our log only
-2026-10-24,YouTube,https://www.youtube.com/watch?v=zhaLhxAWxbw,zhaLhxAWxbw,2026-10-24T12:04:36Z,YouTube API
 2026-10-24,YouTube,https://www.youtube.com/watch?v=MFLw5fQTSzo,MFLw5fQTSzo,2026-10-24T10:05:22Z,YouTube API
 2026-10-24,YouTube,https://www.youtube.com/watch?v=PguX6LW88Xc,PguX6LW88Xc,2026-10-24T04:01:01Z,YouTube API
 2026-10-24,YouTube,https://www.youtube.com/watch?v=dAa2nIvYP1Q,dAa2nIvYP1Q,2026-10-24T01:03:38Z,YouTube API
