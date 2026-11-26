@@ -19,7 +19,7 @@ Times: `_utc` columns are UTC; `_jst` and `date_jst` are Japan time (UTC+9).
 
 ## What each fetch could and could not get (latest run)
 
-- **Bluesky:** OK: 173 posts (public API, createdAt)
+- **Bluesky:** OK: 174 posts (public API, createdAt)
 - **YouTube:** OK: 119 public videos (publishedAt; private/scheduled left out)
 - **Instagram:** OK: 67 media
 - **Facebook:** OK: 57 reels (Page feed posts need a permission we do not have)
@@ -27,7 +27,7 @@ Times: `_utc` columns are UTC; `_jst` and `date_jst` are Japan time (UTC+9).
 - **Tumblr:** ID taken from the post URL; time from our log only (no API key set up)
 - **X:** not fetched: no X API read access on our side; X posts are not in this list
 - **Mastodon / others:** our log only
-- **Cloudflare:** OK: 519 Worker versions; deployment ids for the 10 most recent deployments (the API only lists recent ones)
+- **Cloudflare:** OK: 520 Worker versions; deployment ids for the 10 most recent deployments (the API only lists recent ones)
 - **Search Console:** OK: 51 days with data (read-only API, Search Analytics by date)
 
 More: https://getpeacecall.com/verify/
